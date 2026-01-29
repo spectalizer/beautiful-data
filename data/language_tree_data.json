@@ -1,0 +1,1342 @@
+{
+  "data": {
+    "directed": true,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+      {
+        "label": "French",
+        "superclass": "modern language",
+        "n_speakers": 208157220,
+        "id": "Q150"
+      },
+      {
+        "label": "O\u00efl",
+        "superclass": "language family",
+        "n_speakers": null,
+        "id": "Q37351"
+      },
+      {
+        "label": "Southern European language",
+        "superclass": "language group",
+        "n_speakers": null,
+        "id": "Q85380120"
+      },
+      {
+        "label": "German",
+        "superclass": "modern language",
+        "n_speakers": 105000000,
+        "id": "Q188"
+      },
+      {
+        "label": "West Germanic",
+        "superclass": "language family",
+        "n_speakers": null,
+        "id": "Q26721"
+      },
+      {
+        "label": "High German",
+        "superclass": "language family",
+        "n_speakers": null,
+        "id": "Q52040"
+      },
+      {
+        "label": "South Germanic",
+        "superclass": "language family",
+        "n_speakers": null,
+        "id": "Q106937689"
+      },
+      {
+        "label": "Turkish",
+        "superclass": "modern language",
+        "n_speakers": 82231620,
+        "id": "Q256"
+      },
+      {
+        "label": "Western Oghuz",
+        "superclass": "language family",
+        "n_speakers": null,
+        "id": "Q97725298"
+      },
+      {
+        "label": "Italian",
+        "superclass": "modern language",
+        "n_speakers": 64819790,
+        "id": "Q652"
+      },
+      {
+        "label": "Italo-Romance",
+        "superclass": "language family",
+        "n_speakers": null,
+        "id": "Q3356483"
+      },
+      {
+        "label": "Spanish",
+        "superclass": "human language",
+        "n_speakers": 485000000,
+        "id": "Q1321"
+      },
+      {
+        "label": "Castilian",
+        "superclass": "language family",
+        "n_speakers": null,
+        "id": "Q71924"
+      },
+      {
+        "label": "West Iberian",
+        "superclass": "language family",
+        "n_speakers": null,
+        "id": "Q1377152"
+      },
+      {
+        "label": "Marathi",
+        "superclass": "modern language",
+        "n_speakers": 83100000,
+        "id": "Q1571"
+      },
+      {
+        "label": "Southern Indo-Aryan",
+        "superclass": "language subfamily",
+        "n_speakers": null,
+        "id": "Q10856062"
+      },
+      {
+        "label": "English",
+        "superclass": "human language",
+        "n_speakers": 1132366680,
+        "id": "Q1860"
+      },
+      {
+        "label": "Anglic",
+        "superclass": "language family",
+        "n_speakers": null,
+        "id": "Q1346342"
+      },
+      {
+        "label": "Portuguese",
+        "superclass": "modern language",
+        "n_speakers": 254300000,
+        "id": "Q5146"
+      },
+      {
+        "label": "Galician\u2013Portuguese",
+        "superclass": "language family",
+        "n_speakers": null,
+        "id": "Q9080204"
+      },
+      {
+        "label": "Japanese",
+        "superclass": "modern language",
+        "n_speakers": 128000000,
+        "id": "Q5287"
+      },
+      {
+        "label": "Japonic",
+        "superclass": "language family",
+        "n_speakers": null,
+        "id": "Q33612"
+      },
+      {
+        "label": "Tamil",
+        "superclass": "modern language",
+        "n_speakers": 75000000,
+        "id": "Q5885"
+      },
+      {
+        "label": "Tamil languages",
+        "superclass": "language family",
+        "n_speakers": null,
+        "id": "Q7681417"
+      },
+      {
+        "label": "Russian",
+        "superclass": "modern language",
+        "n_speakers": 171428900,
+        "id": "Q7737"
+      },
+      {
+        "label": "East Slavic",
+        "superclass": "language family",
+        "n_speakers": null,
+        "id": "Q144713"
+      },
+      {
+        "label": "Swahili",
+        "superclass": "human language",
+        "n_speakers": null,
+        "id": "Q7838"
+      },
+      {
+        "label": "Bantu",
+        "superclass": "language family",
+        "n_speakers": null,
+        "id": "Q33146"
+      },
+      {
+        "label": "Sabaki",
+        "superclass": "language family",
+        "n_speakers": null,
+        "id": "Q2209395"
+      },
+      {
+        "label": "Chinese",
+        "superclass": "modern language",
+        "n_speakers": null,
+        "id": "Q7850"
+      },
+      {
+        "label": "Sino-Tibetan",
+        "superclass": "language family",
+        "n_speakers": null,
+        "id": "Q45961"
+      },
+      {
+        "label": "Telugu",
+        "superclass": "modern language",
+        "n_speakers": 82000000,
+        "id": "Q8097"
+      },
+      {
+        "label": "Dravidian",
+        "superclass": "language family",
+        "n_speakers": null,
+        "id": "Q33311"
+      },
+      {
+        "label": "Persian",
+        "superclass": "field of study",
+        "n_speakers": 70000000,
+        "id": "Q9168"
+      },
+      {
+        "label": "New Persian",
+        "superclass": "chronolect",
+        "n_speakers": null,
+        "id": "Q56356571"
+      },
+      {
+        "label": "Korean",
+        "superclass": "modern language",
+        "n_speakers": 77300000,
+        "id": "Q9176"
+      },
+      {
+        "label": "Koreanic",
+        "superclass": "language family",
+        "n_speakers": null,
+        "id": "Q11263525"
+      },
+      {
+        "label": "Cantonese",
+        "superclass": "modern language",
+        "n_speakers": 72893210,
+        "id": "Q9186"
+      },
+      {
+        "label": "varieties of Chinese",
+        "superclass": "none",
+        "n_speakers": null,
+        "id": "Q2748296"
+      },
+      {
+        "label": "Yuehai Yue",
+        "superclass": "dialect",
+        "n_speakers": null,
+        "id": "Q8060260"
+      },
+      {
+        "label": "Mandarin",
+        "superclass": "language",
+        "n_speakers": 918000000,
+        "id": "Q9192"
+      },
+      {
+        "label": "Vietnamese",
+        "superclass": "modern language",
+        "n_speakers": 76000000,
+        "id": "Q9199"
+      },
+      {
+        "label": "Vietic",
+        "superclass": "language family",
+        "n_speakers": null,
+        "id": "Q2355546"
+      },
+      {
+        "label": "Malay",
+        "superclass": "human language",
+        "n_speakers": 77000000,
+        "id": "Q9237"
+      },
+      {
+        "label": "Malayan",
+        "superclass": "dialect group",
+        "n_speakers": null,
+        "id": "Q3450837"
+      },
+      {
+        "label": "Punjabi dialects and languages",
+        "superclass": "language group",
+        "n_speakers": null,
+        "id": "Q2656685"
+      },
+      {
+        "label": "Northwestern Indo-Aryan",
+        "superclass": "language subfamily",
+        "n_speakers": null,
+        "id": "Q16111018"
+      },
+      {
+        "label": "dialect",
+        "superclass": "languoid class",
+        "n_speakers": null,
+        "id": "Q33384"
+      },
+      {
+        "label": "Kiswahili",
+        "superclass": "modern language",
+        "n_speakers": 82300000,
+        "id": "Q3197533"
+      },
+      {
+        "label": "Italo-Dalmatian",
+        "superclass": "language family",
+        "n_speakers": null,
+        "id": "Q3313381"
+      },
+      {
+        "label": "Italo-Western",
+        "superclass": "language family",
+        "n_speakers": null,
+        "id": "Q112608"
+      },
+      {
+        "label": "Malayic",
+        "superclass": "language family",
+        "n_speakers": null,
+        "id": "Q662628"
+      },
+      {
+        "label": "Bengali\u2013Assamese",
+        "superclass": "language family",
+        "n_speakers": null,
+        "id": "Q4179137"
+      },
+      {
+        "label": "Eastern Indo-Aryan",
+        "superclass": "language family",
+        "n_speakers": null,
+        "id": "Q12593391"
+      },
+      {
+        "label": "Anglo-Frisian",
+        "superclass": "language family",
+        "n_speakers": null,
+        "id": "Q5329170"
+      },
+      {
+        "label": "North Sea Germanic",
+        "superclass": "language family",
+        "n_speakers": null,
+        "id": "Q30134"
+      },
+      {
+        "label": "Gallo-Rhaetian",
+        "superclass": "language family",
+        "n_speakers": null,
+        "id": "Q5886200"
+      },
+      {
+        "label": "Gallo-Romance",
+        "superclass": "language family",
+        "n_speakers": null,
+        "id": "Q500394"
+      },
+      {
+        "label": "Yue Chinese",
+        "superclass": "varieties of Chinese",
+        "n_speakers": 73100000,
+        "id": "Q7033959"
+      },
+      {
+        "label": "Sinitic",
+        "superclass": "language family",
+        "n_speakers": null,
+        "id": "Q33857"
+      },
+      {
+        "label": "Tamil\u2013Malayalam",
+        "superclass": "language family",
+        "n_speakers": null,
+        "id": "Q10690507"
+      },
+      {
+        "label": "Tamil\u2013Kannada",
+        "superclass": "language family",
+        "n_speakers": null,
+        "id": "Q6478506"
+      },
+      {
+        "label": "New Indo-Aryan",
+        "superclass": "chronolect",
+        "n_speakers": null,
+        "id": "Q11732815"
+      },
+      {
+        "label": "Altaic",
+        "superclass": "sprachbund",
+        "n_speakers": null,
+        "id": "Q37845"
+      },
+      {
+        "label": "Asian languages",
+        "superclass": "language group",
+        "n_speakers": null,
+        "id": "Q98791755"
+      },
+      {
+        "label": "Middle-Modern Indo-Aryan",
+        "superclass": "chronolect",
+        "n_speakers": null,
+        "id": "Q116076343"
+      },
+      {
+        "label": "Indo-Aryan",
+        "superclass": "language family",
+        "n_speakers": null,
+        "id": "Q33577"
+      },
+      {
+        "label": "Western Hindi",
+        "superclass": "language family",
+        "n_speakers": null,
+        "id": "Q12600937"
+      },
+      {
+        "label": "Central Indo-Aryan",
+        "superclass": "language family",
+        "n_speakers": null,
+        "id": "Q10979187"
+      },
+      {
+        "label": "human language",
+        "superclass": "none",
+        "n_speakers": null,
+        "id": "Q20162172"
+      },
+      {
+        "label": "language",
+        "superclass": "languoid class",
+        "n_speakers": null,
+        "id": "Q34770"
+      },
+      {
+        "label": "Southwestern Iranian",
+        "superclass": "language family",
+        "n_speakers": null,
+        "id": "Q390424"
+      },
+      {
+        "label": "Oghuz",
+        "superclass": "language family",
+        "n_speakers": null,
+        "id": "Q494600"
+      },
+      {
+        "label": "Standard Arabic",
+        "superclass": "language",
+        "n_speakers": 335000000,
+        "id": "Q122602987"
+      },
+      {
+        "label": "Arabic",
+        "superclass": "human language",
+        "n_speakers": 422000000,
+        "id": "Q13955"
+      },
+      {
+        "label": "Egypto-Sudanic Arabic",
+        "superclass": "language family",
+        "n_speakers": null,
+        "id": "Q135994328"
+      },
+      {
+        "label": "Indonesian",
+        "superclass": "human language",
+        "n_speakers": 198996550,
+        "id": "Q9240"
+      },
+      {
+        "label": "Bangla",
+        "superclass": "modern language",
+        "n_speakers": 300000000,
+        "id": "Q9610"
+      },
+      {
+        "label": "Hindustani",
+        "superclass": "common language",
+        "n_speakers": 490100000,
+        "id": "Q11051"
+      },
+      {
+        "label": "Semitic",
+        "superclass": "language family",
+        "n_speakers": null,
+        "id": "Q34049"
+      },
+      {
+        "label": "Germanic languages",
+        "superclass": "language family",
+        "n_speakers": null,
+        "id": "Q21200"
+      },
+      {
+        "label": "Indo-European",
+        "superclass": "language family",
+        "n_speakers": null,
+        "id": "Q19860"
+      },
+      {
+        "label": "Slavic",
+        "superclass": "language group",
+        "n_speakers": null,
+        "id": "Q23526"
+      },
+      {
+        "label": "Balto-Slavic",
+        "superclass": "language family",
+        "n_speakers": null,
+        "id": "Q147356"
+      },
+      {
+        "label": "Afroasiatic",
+        "superclass": "macrofamily",
+        "n_speakers": null,
+        "id": "Q25268"
+      },
+      {
+        "label": "Egyptian Arabic",
+        "superclass": "modern language",
+        "n_speakers": 100542400,
+        "id": "Q29919"
+      },
+      {
+        "label": "Atlantic\u2013Congo",
+        "superclass": "language family",
+        "n_speakers": null,
+        "id": "Q771124"
+      },
+      {
+        "label": "Southern Bantoid",
+        "superclass": "language family",
+        "n_speakers": null,
+        "id": "Q3183152"
+      },
+      {
+        "label": "idiom",
+        "superclass": "languoid class",
+        "n_speakers": null,
+        "id": "Q337968"
+      },
+      {
+        "label": "language variety",
+        "superclass": "sociolinguistics term",
+        "n_speakers": null,
+        "id": "Q3329375"
+      },
+      {
+        "label": "lect",
+        "superclass": "languoid class",
+        "n_speakers": null,
+        "id": "Q12442971"
+      },
+      {
+        "label": "Javanese",
+        "superclass": "human language",
+        "n_speakers": 84308740,
+        "id": "Q33549"
+      },
+      {
+        "label": "Malayo-Polynesian",
+        "superclass": "language family",
+        "n_speakers": null,
+        "id": "Q143158"
+      },
+      {
+        "label": "Wu Chinese",
+        "superclass": "modern language",
+        "n_speakers": 81400000,
+        "id": "Q34290"
+      },
+      {
+        "label": "Den\u00e9\u2013Caucasian",
+        "superclass": "macrofamily",
+        "n_speakers": null,
+        "id": "Q507968"
+      },
+      {
+        "label": "Sino-Austronesian",
+        "superclass": "language family",
+        "n_speakers": null,
+        "id": "Q7524744"
+      },
+      {
+        "label": "Sino-Tibetan-Indo-European",
+        "superclass": "language phylum",
+        "n_speakers": null,
+        "id": "Q97690709"
+      },
+      {
+        "label": "Austronesian",
+        "superclass": "language family",
+        "n_speakers": null,
+        "id": "Q49228"
+      },
+      {
+        "label": "Austric",
+        "superclass": "hypothesis",
+        "n_speakers": null,
+        "id": "Q783787"
+      },
+      {
+        "label": "Austro-Tai",
+        "superclass": "language family",
+        "n_speakers": null,
+        "id": "Q783816"
+      },
+      {
+        "label": "Punjabi",
+        "superclass": "modern language",
+        "n_speakers": 125000000,
+        "id": "Q58635"
+      },
+      {
+        "label": "Mon-Khmer",
+        "superclass": "language family",
+        "n_speakers": null,
+        "id": "Q337657"
+      },
+      {
+        "label": "Austroasiatic",
+        "superclass": "language family",
+        "n_speakers": null,
+        "id": "Q33199"
+      },
+      {
+        "label": "Standard Chinese",
+        "superclass": "modern language",
+        "n_speakers": 897071810,
+        "id": "Q727694"
+      },
+      {
+        "label": "Beijing Mandarin",
+        "superclass": "dialect",
+        "n_speakers": null,
+        "id": "Q2169652"
+      },
+      {
+        "label": "Romance languages",
+        "superclass": "language family",
+        "n_speakers": null,
+        "id": "Q19814"
+      },
+      {
+        "label": "Italic",
+        "superclass": "language family",
+        "n_speakers": null,
+        "id": "Q131848"
+      },
+      {
+        "label": "Eurasiatic",
+        "superclass": "hypothetical scientific object",
+        "n_speakers": null,
+        "id": "Q771861"
+      },
+      {
+        "label": "Indo-Iranian",
+        "superclass": "language family",
+        "n_speakers": null,
+        "id": "Q33514"
+      },
+      {
+        "label": "Iranian",
+        "superclass": "language family",
+        "n_speakers": null,
+        "id": "Q33527"
+      },
+      {
+        "label": "South Asian languages",
+        "superclass": "languages of a geographic region",
+        "n_speakers": null,
+        "id": "Q15609389"
+      },
+      {
+        "label": "Niger\u2013Congo",
+        "superclass": "language family",
+        "n_speakers": null,
+        "id": "Q33838"
+      },
+      {
+        "label": "languoid",
+        "superclass": "languoid class",
+        "n_speakers": null,
+        "id": "Q17376908"
+      },
+      {
+        "label": "Nostratic",
+        "superclass": "hypothetical scientific object",
+        "n_speakers": null,
+        "id": "Q276314"
+      },
+      {
+        "label": "Western Iranian",
+        "superclass": "language family",
+        "n_speakers": null,
+        "id": "Q129850"
+      },
+      {
+        "label": "Common Turkic",
+        "superclass": "language family",
+        "n_speakers": null,
+        "id": "Q1126028"
+      },
+      {
+        "label": "Gallo-Iberian",
+        "superclass": "language family",
+        "n_speakers": null,
+        "id": "Q954321"
+      },
+      {
+        "label": "Iberian Romance",
+        "superclass": "language family",
+        "n_speakers": null,
+        "id": "Q749533"
+      },
+      {
+        "label": "Western Romance",
+        "superclass": "language family",
+        "n_speakers": null,
+        "id": "Q2714388"
+      },
+      {
+        "label": "Turkic",
+        "superclass": "language family",
+        "n_speakers": null,
+        "id": "Q34090"
+      },
+      {
+        "label": "Bantoid",
+        "superclass": "language family",
+        "n_speakers": null,
+        "id": "Q806992"
+      },
+      {
+        "label": "South Dravidian",
+        "superclass": "language family",
+        "n_speakers": null,
+        "id": "Q16112843"
+      },
+      {
+        "label": "Northeast Coast Bantu",
+        "superclass": "language family",
+        "n_speakers": null,
+        "id": "Q7057848"
+      },
+      {
+        "label": "Northeast Bantu",
+        "superclass": "language family",
+        "n_speakers": null,
+        "id": "Q7057832"
+      },
+      {
+        "label": "Benue\u2013Congo",
+        "superclass": "language family",
+        "n_speakers": null,
+        "id": "Q33253"
+      },
+      {
+        "label": "Volta\u2013Congo",
+        "superclass": "language family",
+        "n_speakers": null,
+        "id": "Q37228"
+      },
+      {
+        "label": "entity",
+        "superclass": "variable-order class",
+        "n_speakers": null,
+        "id": "Q35120"
+      },
+      {
+        "label": "languages of Asia",
+        "superclass": "languages of a geographic region",
+        "n_speakers": null,
+        "id": "Q2624777"
+      },
+      {
+        "label": "languages of Eurasia",
+        "superclass": "languages of a geographic region",
+        "n_speakers": null,
+        "id": "Q45113529"
+      },
+      {
+        "label": "abstract entity",
+        "superclass": "type of object",
+        "n_speakers": null,
+        "id": "Q7048977"
+      },
+      {
+        "label": "East Bantu",
+        "superclass": "language family",
+        "n_speakers": null,
+        "id": "Q41347250"
+      },
+      {
+        "label": "languages of the Earth",
+        "superclass": "languages of a geographic region",
+        "n_speakers": null,
+        "id": "Q13192321"
+      },
+      {
+        "label": "South Dravidian",
+        "superclass": "language family",
+        "n_speakers": null,
+        "id": "Q128886618"
+      }
+    ],
+    "edges": [
+      {
+        "source": "Q37351",
+        "target": "Q150"
+      },
+      {
+        "source": "Q26721",
+        "target": "Q106937689"
+      },
+      {
+        "source": "Q26721",
+        "target": "Q52040"
+      },
+      {
+        "source": "Q26721",
+        "target": "Q30134"
+      },
+      {
+        "source": "Q52040",
+        "target": "Q188"
+      },
+      {
+        "source": "Q97725298",
+        "target": "Q256"
+      },
+      {
+        "source": "Q3356483",
+        "target": "Q652"
+      },
+      {
+        "source": "Q71924",
+        "target": "Q1321"
+      },
+      {
+        "source": "Q1377152",
+        "target": "Q9080204"
+      },
+      {
+        "source": "Q1377152",
+        "target": "Q71924"
+      },
+      {
+        "source": "Q10856062",
+        "target": "Q1571"
+      },
+      {
+        "source": "Q1346342",
+        "target": "Q1860"
+      },
+      {
+        "source": "Q9080204",
+        "target": "Q5146"
+      },
+      {
+        "source": "Q33612",
+        "target": "Q5287"
+      },
+      {
+        "source": "Q7681417",
+        "target": "Q5885"
+      },
+      {
+        "source": "Q144713",
+        "target": "Q7737"
+      },
+      {
+        "source": "Q7838",
+        "target": "Q3197533"
+      },
+      {
+        "source": "Q33146",
+        "target": "Q41347250"
+      },
+      {
+        "source": "Q2209395",
+        "target": "Q7838"
+      },
+      {
+        "source": "Q7850",
+        "target": "Q9192"
+      },
+      {
+        "source": "Q45961",
+        "target": "Q33857"
+      },
+      {
+        "source": "Q45961",
+        "target": "Q7850"
+      },
+      {
+        "source": "Q33311",
+        "target": "Q128886618"
+      },
+      {
+        "source": "Q33311",
+        "target": "Q8097"
+      },
+      {
+        "source": "Q56356571",
+        "target": "Q9168"
+      },
+      {
+        "source": "Q11263525",
+        "target": "Q9176"
+      },
+      {
+        "source": "Q8060260",
+        "target": "Q9186"
+      },
+      {
+        "source": "Q9192",
+        "target": "Q2169652"
+      },
+      {
+        "source": "Q2355546",
+        "target": "Q9199"
+      },
+      {
+        "source": "Q9237",
+        "target": "Q9240"
+      },
+      {
+        "source": "Q3450837",
+        "target": "Q9237"
+      },
+      {
+        "source": "Q2656685",
+        "target": "Q58635"
+      },
+      {
+        "source": "Q16111018",
+        "target": "Q2656685"
+      },
+      {
+        "source": "Q33384",
+        "target": "Q2748296"
+      },
+      {
+        "source": "Q3313381",
+        "target": "Q3356483"
+      },
+      {
+        "source": "Q112608",
+        "target": "Q3313381"
+      },
+      {
+        "source": "Q662628",
+        "target": "Q3450837"
+      },
+      {
+        "source": "Q4179137",
+        "target": "Q9610"
+      },
+      {
+        "source": "Q12593391",
+        "target": "Q4179137"
+      },
+      {
+        "source": "Q5329170",
+        "target": "Q1346342"
+      },
+      {
+        "source": "Q30134",
+        "target": "Q5329170"
+      },
+      {
+        "source": "Q5886200",
+        "target": "Q37351"
+      },
+      {
+        "source": "Q500394",
+        "target": "Q5886200"
+      },
+      {
+        "source": "Q7033959",
+        "target": "Q8060260"
+      },
+      {
+        "source": "Q33857",
+        "target": "Q34290"
+      },
+      {
+        "source": "Q33857",
+        "target": "Q7033959"
+      },
+      {
+        "source": "Q10690507",
+        "target": "Q7681417"
+      },
+      {
+        "source": "Q6478506",
+        "target": "Q10690507"
+      },
+      {
+        "source": "Q11732815",
+        "target": "Q10856062"
+      },
+      {
+        "source": "Q11732815",
+        "target": "Q16111018"
+      },
+      {
+        "source": "Q37845",
+        "target": "Q11263525"
+      },
+      {
+        "source": "Q98791755",
+        "target": "Q37845"
+      },
+      {
+        "source": "Q116076343",
+        "target": "Q11732815"
+      },
+      {
+        "source": "Q33577",
+        "target": "Q12593391"
+      },
+      {
+        "source": "Q33577",
+        "target": "Q10979187"
+      },
+      {
+        "source": "Q33577",
+        "target": "Q116076343"
+      },
+      {
+        "source": "Q12600937",
+        "target": "Q11051"
+      },
+      {
+        "source": "Q10979187",
+        "target": "Q12600937"
+      },
+      {
+        "source": "Q20162172",
+        "target": "Q25268"
+      },
+      {
+        "source": "Q20162172",
+        "target": "Q276314"
+      },
+      {
+        "source": "Q20162172",
+        "target": "Q33311"
+      },
+      {
+        "source": "Q20162172",
+        "target": "Q33612"
+      },
+      {
+        "source": "Q20162172",
+        "target": "Q7524744"
+      },
+      {
+        "source": "Q20162172",
+        "target": "Q783787"
+      },
+      {
+        "source": "Q20162172",
+        "target": "Q771861"
+      },
+      {
+        "source": "Q20162172",
+        "target": "Q34090"
+      },
+      {
+        "source": "Q20162172",
+        "target": "Q783816"
+      },
+      {
+        "source": "Q20162172",
+        "target": "Q33838"
+      },
+      {
+        "source": "Q20162172",
+        "target": "Q97690709"
+      },
+      {
+        "source": "Q20162172",
+        "target": "Q98791755"
+      },
+      {
+        "source": "Q34770",
+        "target": "Q85380120"
+      },
+      {
+        "source": "Q34770",
+        "target": "Q13192321"
+      },
+      {
+        "source": "Q34770",
+        "target": "Q20162172"
+      },
+      {
+        "source": "Q390424",
+        "target": "Q56356571"
+      },
+      {
+        "source": "Q494600",
+        "target": "Q97725298"
+      },
+      {
+        "source": "Q13955",
+        "target": "Q122602987"
+      },
+      {
+        "source": "Q13955",
+        "target": "Q135994328"
+      },
+      {
+        "source": "Q135994328",
+        "target": "Q29919"
+      },
+      {
+        "source": "Q34049",
+        "target": "Q13955"
+      },
+      {
+        "source": "Q21200",
+        "target": "Q26721"
+      },
+      {
+        "source": "Q19860",
+        "target": "Q21200"
+      },
+      {
+        "source": "Q19860",
+        "target": "Q147356"
+      },
+      {
+        "source": "Q19860",
+        "target": "Q131848"
+      },
+      {
+        "source": "Q19860",
+        "target": "Q33514"
+      },
+      {
+        "source": "Q23526",
+        "target": "Q144713"
+      },
+      {
+        "source": "Q147356",
+        "target": "Q23526"
+      },
+      {
+        "source": "Q25268",
+        "target": "Q34049"
+      },
+      {
+        "source": "Q771124",
+        "target": "Q37228"
+      },
+      {
+        "source": "Q3183152",
+        "target": "Q33146"
+      },
+      {
+        "source": "Q337968",
+        "target": "Q33384"
+      },
+      {
+        "source": "Q143158",
+        "target": "Q33549"
+      },
+      {
+        "source": "Q143158",
+        "target": "Q662628"
+      },
+      {
+        "source": "Q7524744",
+        "target": "Q45961"
+      },
+      {
+        "source": "Q7524744",
+        "target": "Q49228"
+      },
+      {
+        "source": "Q49228",
+        "target": "Q143158"
+      },
+      {
+        "source": "Q783787",
+        "target": "Q33199"
+      },
+      {
+        "source": "Q337657",
+        "target": "Q2355546"
+      },
+      {
+        "source": "Q33199",
+        "target": "Q337657"
+      },
+      {
+        "source": "Q2169652",
+        "target": "Q727694"
+      },
+      {
+        "source": "Q19814",
+        "target": "Q112608"
+      },
+      {
+        "source": "Q19814",
+        "target": "Q2714388"
+      },
+      {
+        "source": "Q131848",
+        "target": "Q19814"
+      },
+      {
+        "source": "Q771861",
+        "target": "Q19860"
+      },
+      {
+        "source": "Q33514",
+        "target": "Q33577"
+      },
+      {
+        "source": "Q33514",
+        "target": "Q33527"
+      },
+      {
+        "source": "Q33527",
+        "target": "Q129850"
+      },
+      {
+        "source": "Q33838",
+        "target": "Q771124"
+      },
+      {
+        "source": "Q17376908",
+        "target": "Q34770"
+      },
+      {
+        "source": "Q17376908",
+        "target": "Q12442971"
+      },
+      {
+        "source": "Q17376908",
+        "target": "Q3329375"
+      },
+      {
+        "source": "Q17376908",
+        "target": "Q337968"
+      },
+      {
+        "source": "Q17376908",
+        "target": "Q507968"
+      },
+      {
+        "source": "Q129850",
+        "target": "Q390424"
+      },
+      {
+        "source": "Q1126028",
+        "target": "Q494600"
+      },
+      {
+        "source": "Q954321",
+        "target": "Q500394"
+      },
+      {
+        "source": "Q954321",
+        "target": "Q749533"
+      },
+      {
+        "source": "Q749533",
+        "target": "Q1377152"
+      },
+      {
+        "source": "Q2714388",
+        "target": "Q954321"
+      },
+      {
+        "source": "Q34090",
+        "target": "Q1126028"
+      },
+      {
+        "source": "Q806992",
+        "target": "Q3183152"
+      },
+      {
+        "source": "Q16112843",
+        "target": "Q6478506"
+      },
+      {
+        "source": "Q7057848",
+        "target": "Q2209395"
+      },
+      {
+        "source": "Q7057832",
+        "target": "Q7057848"
+      },
+      {
+        "source": "Q33253",
+        "target": "Q806992"
+      },
+      {
+        "source": "Q37228",
+        "target": "Q33253"
+      },
+      {
+        "source": "Q35120",
+        "target": "Q7048977"
+      },
+      {
+        "source": "Q2624777",
+        "target": "Q15609389"
+      },
+      {
+        "source": "Q45113529",
+        "target": "Q2624777"
+      },
+      {
+        "source": "Q7048977",
+        "target": "Q17376908"
+      },
+      {
+        "source": "Q41347250",
+        "target": "Q7057832"
+      },
+      {
+        "source": "Q13192321",
+        "target": "Q45113529"
+      },
+      {
+        "source": "Q128886618",
+        "target": "Q16112843"
+      }
+    ]
+  },
+  "metadata": {
+    "name": "tree of 30 languages",
+    "description": "This is a tree of 30 of the most spoken languages",
+    "source": "experimentary/wiki_languages.ipynb"
+  }
+}
