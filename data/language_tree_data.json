@@ -17,12 +17,6 @@
         "id": "Q37351"
       },
       {
-        "label": "Southern European language",
-        "superclass": "language group",
-        "n_speakers": null,
-        "id": "Q85380120"
-      },
-      {
         "label": "German",
         "superclass": "modern language",
         "n_speakers": 105000000,
@@ -39,12 +33,6 @@
         "superclass": "language family",
         "n_speakers": null,
         "id": "Q52040"
-      },
-      {
-        "label": "South Germanic",
-        "superclass": "language family",
-        "n_speakers": null,
-        "id": "Q106937689"
       },
       {
         "label": "Turkish",
@@ -233,12 +221,6 @@
         "id": "Q9186"
       },
       {
-        "label": "varieties of Chinese",
-        "superclass": "none",
-        "n_speakers": null,
-        "id": "Q2748296"
-      },
-      {
         "label": "Yuehai Yue",
         "superclass": "dialect",
         "n_speakers": null,
@@ -285,12 +267,6 @@
         "superclass": "language subfamily",
         "n_speakers": null,
         "id": "Q16111018"
-      },
-      {
-        "label": "dialect",
-        "superclass": "languoid class",
-        "n_speakers": null,
-        "id": "Q33384"
       },
       {
         "label": "Kiswahili",
@@ -533,24 +509,6 @@
         "id": "Q3183152"
       },
       {
-        "label": "idiom",
-        "superclass": "languoid class",
-        "n_speakers": null,
-        "id": "Q337968"
-      },
-      {
-        "label": "language variety",
-        "superclass": "sociolinguistics term",
-        "n_speakers": null,
-        "id": "Q3329375"
-      },
-      {
-        "label": "lect",
-        "superclass": "languoid class",
-        "n_speakers": null,
-        "id": "Q12442971"
-      },
-      {
         "label": "Javanese",
         "superclass": "human language",
         "n_speakers": 84308740,
@@ -569,22 +527,10 @@
         "id": "Q34290"
       },
       {
-        "label": "Den\u00e9\u2013Caucasian",
-        "superclass": "macrofamily",
-        "n_speakers": null,
-        "id": "Q507968"
-      },
-      {
         "label": "Sino-Austronesian",
         "superclass": "language family",
         "n_speakers": null,
         "id": "Q7524744"
-      },
-      {
-        "label": "Sino-Tibetan-Indo-European",
-        "superclass": "language phylum",
-        "n_speakers": null,
-        "id": "Q97690709"
       },
       {
         "label": "Austronesian",
@@ -597,12 +543,6 @@
         "superclass": "hypothesis",
         "n_speakers": null,
         "id": "Q783787"
-      },
-      {
-        "label": "Austro-Tai",
-        "superclass": "language family",
-        "n_speakers": null,
-        "id": "Q783816"
       },
       {
         "label": "Punjabi",
@@ -665,12 +605,6 @@
         "id": "Q33527"
       },
       {
-        "label": "South Asian languages",
-        "superclass": "languages of a geographic region",
-        "n_speakers": null,
-        "id": "Q15609389"
-      },
-      {
         "label": "Niger\u2013Congo",
         "superclass": "language family",
         "n_speakers": null,
@@ -681,12 +615,6 @@
         "superclass": "languoid class",
         "n_speakers": null,
         "id": "Q17376908"
-      },
-      {
-        "label": "Nostratic",
-        "superclass": "hypothetical scientific object",
-        "n_speakers": null,
-        "id": "Q276314"
       },
       {
         "label": "Western Iranian",
@@ -767,18 +695,6 @@
         "id": "Q35120"
       },
       {
-        "label": "languages of Asia",
-        "superclass": "languages of a geographic region",
-        "n_speakers": null,
-        "id": "Q2624777"
-      },
-      {
-        "label": "languages of Eurasia",
-        "superclass": "languages of a geographic region",
-        "n_speakers": null,
-        "id": "Q45113529"
-      },
-      {
         "label": "abstract entity",
         "superclass": "type of object",
         "n_speakers": null,
@@ -791,12 +707,6 @@
         "id": "Q41347250"
       },
       {
-        "label": "languages of the Earth",
-        "superclass": "languages of a geographic region",
-        "n_speakers": null,
-        "id": "Q13192321"
-      },
-      {
         "label": "South Dravidian",
         "superclass": "language family",
         "n_speakers": null,
@@ -807,10 +717,6 @@
       {
         "source": "Q37351",
         "target": "Q150"
-      },
-      {
-        "source": "Q26721",
-        "target": "Q106937689"
       },
       {
         "source": "Q26721",
@@ -937,10 +843,6 @@
         "target": "Q2656685"
       },
       {
-        "source": "Q33384",
-        "target": "Q2748296"
-      },
-      {
         "source": "Q3313381",
         "target": "Q3356483"
       },
@@ -1042,10 +944,6 @@
       },
       {
         "source": "Q20162172",
-        "target": "Q276314"
-      },
-      {
-        "source": "Q20162172",
         "target": "Q33311"
       },
       {
@@ -1070,27 +968,11 @@
       },
       {
         "source": "Q20162172",
-        "target": "Q783816"
-      },
-      {
-        "source": "Q20162172",
         "target": "Q33838"
       },
       {
         "source": "Q20162172",
-        "target": "Q97690709"
-      },
-      {
-        "source": "Q20162172",
         "target": "Q98791755"
-      },
-      {
-        "source": "Q34770",
-        "target": "Q85380120"
-      },
-      {
-        "source": "Q34770",
-        "target": "Q13192321"
       },
       {
         "source": "Q34770",
@@ -1159,10 +1041,6 @@
       {
         "source": "Q3183152",
         "target": "Q33146"
-      },
-      {
-        "source": "Q337968",
-        "target": "Q33384"
       },
       {
         "source": "Q143158",
@@ -1237,22 +1115,6 @@
         "target": "Q34770"
       },
       {
-        "source": "Q17376908",
-        "target": "Q12442971"
-      },
-      {
-        "source": "Q17376908",
-        "target": "Q3329375"
-      },
-      {
-        "source": "Q17376908",
-        "target": "Q337968"
-      },
-      {
-        "source": "Q17376908",
-        "target": "Q507968"
-      },
-      {
         "source": "Q129850",
         "target": "Q390424"
       },
@@ -1309,24 +1171,12 @@
         "target": "Q7048977"
       },
       {
-        "source": "Q2624777",
-        "target": "Q15609389"
-      },
-      {
-        "source": "Q45113529",
-        "target": "Q2624777"
-      },
-      {
         "source": "Q7048977",
         "target": "Q17376908"
       },
       {
         "source": "Q41347250",
         "target": "Q7057832"
-      },
-      {
-        "source": "Q13192321",
-        "target": "Q45113529"
       },
       {
         "source": "Q128886618",
