@@ -1,0 +1,3917 @@
+{
+  "data": {
+    "directed": true,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+      {
+        "type": "dir",
+        "size": 4096,
+        "file_type": "dir",
+        "inclusive_size": 5616.665,
+        "id": "seaborn"
+      },
+      {
+        "type": "dir",
+        "size": 4.096,
+        "file_type": "dir",
+        "inclusive_size": 0,
+        "id": "seaborn\\.git"
+      },
+      {
+        "type": "dir",
+        "size": 4096,
+        "file_type": "dir",
+        "inclusive_size": 5.589,
+        "id": "seaborn\\.github"
+      },
+      {
+        "type": "file",
+        "size": 0.172,
+        "file_type": "gitignore",
+        "inclusive_size": 0.172,
+        "id": "seaborn\\.gitignore"
+      },
+      {
+        "type": "file",
+        "size": 0.56,
+        "file_type": "yaml",
+        "inclusive_size": 0.56,
+        "id": "seaborn\\.pre-commit-config.yaml"
+      },
+      {
+        "type": "dir",
+        "size": 4096,
+        "file_type": "dir",
+        "inclusive_size": 1.276,
+        "id": "seaborn\\ci"
+      },
+      {
+        "type": "file",
+        "size": 0.528,
+        "file_type": "cff",
+        "inclusive_size": 0.528,
+        "id": "seaborn\\CITATION.cff"
+      },
+      {
+        "type": "dir",
+        "size": 4096,
+        "file_type": "dir",
+        "inclusive_size": 3714.986,
+        "id": "seaborn\\doc"
+      },
+      {
+        "type": "dir",
+        "size": 20480,
+        "file_type": "dir",
+        "inclusive_size": 31.017,
+        "id": "seaborn\\examples"
+      },
+      {
+        "type": "dir",
+        "size": 4096,
+        "file_type": "dir",
+        "inclusive_size": 6.723,
+        "id": "seaborn\\licences"
+      },
+      {
+        "type": "file",
+        "size": 1.518,
+        "file_type": "md",
+        "inclusive_size": 1.518,
+        "id": "seaborn\\LICENSE.md"
+      },
+      {
+        "type": "file",
+        "size": 0.229,
+        "file_type": "Makefile",
+        "inclusive_size": 0.229,
+        "id": "seaborn\\Makefile"
+      },
+      {
+        "type": "file",
+        "size": 1.915,
+        "file_type": "toml",
+        "inclusive_size": 1.915,
+        "id": "seaborn\\pyproject.toml"
+      },
+      {
+        "type": "file",
+        "size": 3.589,
+        "file_type": "md",
+        "inclusive_size": 3.589,
+        "id": "seaborn\\README.md"
+      },
+      {
+        "type": "dir",
+        "size": 4096,
+        "file_type": "dir",
+        "inclusive_size": 1060.742,
+        "id": "seaborn\\seaborn"
+      },
+      {
+        "type": "file",
+        "size": 0.743,
+        "file_type": "md",
+        "inclusive_size": 0.743,
+        "id": "seaborn\\SECURITY.md"
+      },
+      {
+        "type": "file",
+        "size": 0.609,
+        "file_type": "cfg",
+        "inclusive_size": 0.609,
+        "id": "seaborn\\setup.cfg"
+      },
+      {
+        "type": "dir",
+        "size": 4096,
+        "file_type": "dir",
+        "inclusive_size": 786.469,
+        "id": "seaborn\\tests"
+      },
+      {
+        "type": "file",
+        "size": 4.583,
+        "file_type": "py",
+        "inclusive_size": 4.583,
+        "id": "seaborn\\tests\\conftest.py"
+      },
+      {
+        "type": "file",
+        "size": 5.483,
+        "file_type": "py",
+        "inclusive_size": 5.483,
+        "id": "seaborn\\tests\\test_algorithms.py"
+      },
+      {
+        "type": "file",
+        "size": 65.041,
+        "file_type": "py",
+        "inclusive_size": 65.041,
+        "id": "seaborn\\tests\\test_axisgrid.py"
+      },
+      {
+        "type": "file",
+        "size": 56.194,
+        "file_type": "py",
+        "inclusive_size": 56.194,
+        "id": "seaborn\\tests\\test_base.py"
+      },
+      {
+        "type": "file",
+        "size": 121.557,
+        "file_type": "py",
+        "inclusive_size": 121.557,
+        "id": "seaborn\\tests\\test_categorical.py"
+      },
+      {
+        "type": "file",
+        "size": 83.181,
+        "file_type": "py",
+        "inclusive_size": 83.181,
+        "id": "seaborn\\tests\\test_distributions.py"
+      },
+      {
+        "type": "file",
+        "size": 1.307,
+        "file_type": "py",
+        "inclusive_size": 1.307,
+        "id": "seaborn\\tests\\test_docstrings.py"
+      },
+      {
+        "type": "file",
+        "size": 49.678,
+        "file_type": "py",
+        "inclusive_size": 49.678,
+        "id": "seaborn\\tests\\test_matrix.py"
+      },
+      {
+        "type": "file",
+        "size": 0.948,
+        "file_type": "py",
+        "inclusive_size": 0.948,
+        "id": "seaborn\\tests\\test_miscplot.py"
+      },
+      {
+        "type": "file",
+        "size": 0.449,
+        "file_type": "py",
+        "inclusive_size": 0.449,
+        "id": "seaborn\\tests\\test_objects.py"
+      },
+      {
+        "type": "file",
+        "size": 15.39,
+        "file_type": "py",
+        "inclusive_size": 15.39,
+        "id": "seaborn\\tests\\test_palettes.py"
+      },
+      {
+        "type": "file",
+        "size": 9.276,
+        "file_type": "py",
+        "inclusive_size": 9.276,
+        "id": "seaborn\\tests\\test_rcmod.py"
+      },
+      {
+        "type": "file",
+        "size": 24.266,
+        "file_type": "py",
+        "inclusive_size": 24.266,
+        "id": "seaborn\\tests\\test_regression.py"
+      },
+      {
+        "type": "file",
+        "size": 65.083,
+        "file_type": "py",
+        "inclusive_size": 65.083,
+        "id": "seaborn\\tests\\test_relational.py"
+      },
+      {
+        "type": "file",
+        "size": 22.03,
+        "file_type": "py",
+        "inclusive_size": 22.03,
+        "id": "seaborn\\tests\\test_statistics.py"
+      },
+      {
+        "type": "file",
+        "size": 18.57,
+        "file_type": "py",
+        "inclusive_size": 18.57,
+        "id": "seaborn\\tests\\test_utils.py"
+      },
+      {
+        "type": "dir",
+        "size": 4096,
+        "file_type": "dir",
+        "inclusive_size": 179.00400000000002,
+        "id": "seaborn\\tests\\_core"
+      },
+      {
+        "type": "dir",
+        "size": 4096,
+        "file_type": "dir",
+        "inclusive_size": 40.293,
+        "id": "seaborn\\tests\\_marks"
+      },
+      {
+        "type": "dir",
+        "size": 4096,
+        "file_type": "dir",
+        "inclusive_size": 24.136,
+        "id": "seaborn\\tests\\_stats"
+      },
+      {
+        "type": "file",
+        "size": 0.0,
+        "file_type": "py",
+        "inclusive_size": 0.0,
+        "id": "seaborn\\tests\\__init__.py"
+      },
+      {
+        "type": "file",
+        "size": 4.05,
+        "file_type": "py",
+        "inclusive_size": 4.05,
+        "id": "seaborn\\tests\\_stats\\test_aggregation.py"
+      },
+      {
+        "type": "file",
+        "size": 8.393,
+        "file_type": "py",
+        "inclusive_size": 8.393,
+        "id": "seaborn\\tests\\_stats\\test_counting.py"
+      },
+      {
+        "type": "file",
+        "size": 7.074,
+        "file_type": "py",
+        "inclusive_size": 7.074,
+        "id": "seaborn\\tests\\_stats\\test_density.py"
+      },
+      {
+        "type": "file",
+        "size": 2.735,
+        "file_type": "py",
+        "inclusive_size": 2.735,
+        "id": "seaborn\\tests\\_stats\\test_order.py"
+      },
+      {
+        "type": "file",
+        "size": 1.884,
+        "file_type": "py",
+        "inclusive_size": 1.884,
+        "id": "seaborn\\tests\\_stats\\test_regression.py"
+      },
+      {
+        "type": "file",
+        "size": 0.0,
+        "file_type": "py",
+        "inclusive_size": 0.0,
+        "id": "seaborn\\tests\\_stats\\__init__.py"
+      },
+      {
+        "type": "file",
+        "size": 3.974,
+        "file_type": "py",
+        "inclusive_size": 3.974,
+        "id": "seaborn\\tests\\_marks\\test_area.py"
+      },
+      {
+        "type": "file",
+        "size": 7.057,
+        "file_type": "py",
+        "inclusive_size": 7.057,
+        "id": "seaborn\\tests\\_marks\\test_bar.py"
+      },
+      {
+        "type": "file",
+        "size": 5.131,
+        "file_type": "py",
+        "inclusive_size": 5.131,
+        "id": "seaborn\\tests\\_marks\\test_base.py"
+      },
+      {
+        "type": "file",
+        "size": 5.604,
+        "file_type": "py",
+        "inclusive_size": 5.604,
+        "id": "seaborn\\tests\\_marks\\test_dot.py"
+      },
+      {
+        "type": "file",
+        "size": 14.054,
+        "file_type": "py",
+        "inclusive_size": 14.054,
+        "id": "seaborn\\tests\\_marks\\test_line.py"
+      },
+      {
+        "type": "file",
+        "size": 4.473,
+        "file_type": "py",
+        "inclusive_size": 4.473,
+        "id": "seaborn\\tests\\_marks\\test_text.py"
+      },
+      {
+        "type": "file",
+        "size": 0.0,
+        "file_type": "py",
+        "inclusive_size": 0.0,
+        "id": "seaborn\\tests\\_marks\\__init__.py"
+      },
+      {
+        "type": "file",
+        "size": 14.812,
+        "file_type": "py",
+        "inclusive_size": 14.812,
+        "id": "seaborn\\tests\\_core\\test_data.py"
+      },
+      {
+        "type": "file",
+        "size": 4.19,
+        "file_type": "py",
+        "inclusive_size": 4.19,
+        "id": "seaborn\\tests\\_core\\test_groupby.py"
+      },
+      {
+        "type": "file",
+        "size": 11.758,
+        "file_type": "py",
+        "inclusive_size": 11.758,
+        "id": "seaborn\\tests\\_core\\test_moves.py"
+      },
+      {
+        "type": "file",
+        "size": 80.147,
+        "file_type": "py",
+        "inclusive_size": 80.147,
+        "id": "seaborn\\tests\\_core\\test_plot.py"
+      },
+      {
+        "type": "file",
+        "size": 20.797,
+        "file_type": "py",
+        "inclusive_size": 20.797,
+        "id": "seaborn\\tests\\_core\\test_properties.py"
+      },
+      {
+        "type": "file",
+        "size": 3.313,
+        "file_type": "py",
+        "inclusive_size": 3.313,
+        "id": "seaborn\\tests\\_core\\test_rules.py"
+      },
+      {
+        "type": "file",
+        "size": 26.457,
+        "file_type": "py",
+        "inclusive_size": 26.457,
+        "id": "seaborn\\tests\\_core\\test_scales.py"
+      },
+      {
+        "type": "file",
+        "size": 17.53,
+        "file_type": "py",
+        "inclusive_size": 17.53,
+        "id": "seaborn\\tests\\_core\\test_subplots.py"
+      },
+      {
+        "type": "file",
+        "size": 0.0,
+        "file_type": "py",
+        "inclusive_size": 0.0,
+        "id": "seaborn\\tests\\_core\\__init__.py"
+      },
+      {
+        "type": "file",
+        "size": 4.308,
+        "file_type": "py",
+        "inclusive_size": 4.308,
+        "id": "seaborn\\seaborn\\algorithms.py"
+      },
+      {
+        "type": "file",
+        "size": 89.961,
+        "file_type": "py",
+        "inclusive_size": 89.961,
+        "id": "seaborn\\seaborn\\axisgrid.py"
+      },
+      {
+        "type": "file",
+        "size": 125.511,
+        "file_type": "py",
+        "inclusive_size": 125.511,
+        "id": "seaborn\\seaborn\\categorical.py"
+      },
+      {
+        "type": "file",
+        "size": 67.624,
+        "file_type": "py",
+        "inclusive_size": 67.624,
+        "id": "seaborn\\seaborn\\cm.py"
+      },
+      {
+        "type": "dir",
+        "size": 0,
+        "file_type": "dir",
+        "inclusive_size": 40.868,
+        "id": "seaborn\\seaborn\\colors"
+      },
+      {
+        "type": "file",
+        "size": 89.341,
+        "file_type": "py",
+        "inclusive_size": 89.341,
+        "id": "seaborn\\seaborn\\distributions.py"
+      },
+      {
+        "type": "dir",
+        "size": 4096,
+        "file_type": "dir",
+        "inclusive_size": 68.172,
+        "id": "seaborn\\seaborn\\external"
+      },
+      {
+        "type": "file",
+        "size": 48.615,
+        "file_type": "py",
+        "inclusive_size": 48.615,
+        "id": "seaborn\\seaborn\\matrix.py"
+      },
+      {
+        "type": "file",
+        "size": 1.379,
+        "file_type": "py",
+        "inclusive_size": 1.379,
+        "id": "seaborn\\seaborn\\miscplot.py"
+      },
+      {
+        "type": "file",
+        "size": 2.257,
+        "file_type": "py",
+        "inclusive_size": 2.257,
+        "id": "seaborn\\seaborn\\objects.py"
+      },
+      {
+        "type": "file",
+        "size": 28.698,
+        "file_type": "py",
+        "inclusive_size": 28.698,
+        "id": "seaborn\\seaborn\\palettes.py"
+      },
+      {
+        "type": "file",
+        "size": 16.47,
+        "file_type": "py",
+        "inclusive_size": 16.47,
+        "id": "seaborn\\seaborn\\rcmod.py"
+      },
+      {
+        "type": "file",
+        "size": 35.276,
+        "file_type": "py",
+        "inclusive_size": 35.276,
+        "id": "seaborn\\seaborn\\regression.py"
+      },
+      {
+        "type": "file",
+        "size": 35.612,
+        "file_type": "py",
+        "inclusive_size": 35.612,
+        "id": "seaborn\\seaborn\\relational.py"
+      },
+      {
+        "type": "file",
+        "size": 30.028,
+        "file_type": "py",
+        "inclusive_size": 30.028,
+        "id": "seaborn\\seaborn\\utils.py"
+      },
+      {
+        "type": "file",
+        "size": 14.99,
+        "file_type": "py",
+        "inclusive_size": 14.99,
+        "id": "seaborn\\seaborn\\widgets.py"
+      },
+      {
+        "type": "file",
+        "size": 68.32,
+        "file_type": "py",
+        "inclusive_size": 68.32,
+        "id": "seaborn\\seaborn\\_base.py"
+      },
+      {
+        "type": "file",
+        "size": 4.256,
+        "file_type": "py",
+        "inclusive_size": 4.256,
+        "id": "seaborn\\seaborn\\_compat.py"
+      },
+      {
+        "type": "dir",
+        "size": 4096,
+        "file_type": "dir",
+        "inclusive_size": 182.19500000000002,
+        "id": "seaborn\\seaborn\\_core"
+      },
+      {
+        "type": "file",
+        "size": 6.662,
+        "file_type": "py",
+        "inclusive_size": 6.662,
+        "id": "seaborn\\seaborn\\_docstrings.py"
+      },
+      {
+        "type": "dir",
+        "size": 0,
+        "file_type": "dir",
+        "inclusive_size": 43.59,
+        "id": "seaborn\\seaborn\\_marks"
+      },
+      {
+        "type": "file",
+        "size": 25.644,
+        "file_type": "py",
+        "inclusive_size": 25.644,
+        "id": "seaborn\\seaborn\\_statistics.py"
+      },
+      {
+        "type": "dir",
+        "size": 4096,
+        "file_type": "dir",
+        "inclusive_size": 27.785,
+        "id": "seaborn\\seaborn\\_stats"
+      },
+      {
+        "type": "file",
+        "size": 2.41,
+        "file_type": "py",
+        "inclusive_size": 2.41,
+        "id": "seaborn\\seaborn\\_testing.py"
+      },
+      {
+        "type": "file",
+        "size": 0.77,
+        "file_type": "py",
+        "inclusive_size": 0.77,
+        "id": "seaborn\\seaborn\\__init__.py"
+      },
+      {
+        "type": "file",
+        "size": 3.814,
+        "file_type": "py",
+        "inclusive_size": 3.814,
+        "id": "seaborn\\seaborn\\_stats\\aggregation.py"
+      },
+      {
+        "type": "file",
+        "size": 2.698,
+        "file_type": "py",
+        "inclusive_size": 2.698,
+        "id": "seaborn\\seaborn\\_stats\\base.py"
+      },
+      {
+        "type": "file",
+        "size": 8.713,
+        "file_type": "py",
+        "inclusive_size": 8.713,
+        "id": "seaborn\\seaborn\\_stats\\counting.py"
+      },
+      {
+        "type": "file",
+        "size": 8.89,
+        "file_type": "py",
+        "inclusive_size": 8.89,
+        "id": "seaborn\\seaborn\\_stats\\density.py"
+      },
+      {
+        "type": "file",
+        "size": 2.337,
+        "file_type": "py",
+        "inclusive_size": 2.337,
+        "id": "seaborn\\seaborn\\_stats\\order.py"
+      },
+      {
+        "type": "file",
+        "size": 1.333,
+        "file_type": "py",
+        "inclusive_size": 1.333,
+        "id": "seaborn\\seaborn\\_stats\\regression.py"
+      },
+      {
+        "type": "file",
+        "size": 0.0,
+        "file_type": "py",
+        "inclusive_size": 0.0,
+        "id": "seaborn\\seaborn\\_stats\\__init__.py"
+      },
+      {
+        "type": "file",
+        "size": 5.392,
+        "file_type": "py",
+        "inclusive_size": 5.392,
+        "id": "seaborn\\seaborn\\_marks\\area.py"
+      },
+      {
+        "type": "file",
+        "size": 9.389,
+        "file_type": "py",
+        "inclusive_size": 9.389,
+        "id": "seaborn\\seaborn\\_marks\\bar.py"
+      },
+      {
+        "type": "file",
+        "size": 10.523,
+        "file_type": "py",
+        "inclusive_size": 10.523,
+        "id": "seaborn\\seaborn\\_marks\\base.py"
+      },
+      {
+        "type": "file",
+        "size": 6.823,
+        "file_type": "py",
+        "inclusive_size": 6.823,
+        "id": "seaborn\\seaborn\\_marks\\dot.py"
+      },
+      {
+        "type": "file",
+        "size": 9.13,
+        "file_type": "py",
+        "inclusive_size": 9.13,
+        "id": "seaborn\\seaborn\\_marks\\line.py"
+      },
+      {
+        "type": "file",
+        "size": 2.333,
+        "file_type": "py",
+        "inclusive_size": 2.333,
+        "id": "seaborn\\seaborn\\_marks\\text.py"
+      },
+      {
+        "type": "file",
+        "size": 0.0,
+        "file_type": "py",
+        "inclusive_size": 0.0,
+        "id": "seaborn\\seaborn\\_marks\\__init__.py"
+      },
+      {
+        "type": "file",
+        "size": 12.36,
+        "file_type": "py",
+        "inclusive_size": 12.36,
+        "id": "seaborn\\seaborn\\_core\\data.py"
+      },
+      {
+        "type": "file",
+        "size": 1.211,
+        "file_type": "py",
+        "inclusive_size": 1.211,
+        "id": "seaborn\\seaborn\\_core\\exceptions.py"
+      },
+      {
+        "type": "file",
+        "size": 4.856,
+        "file_type": "py",
+        "inclusive_size": 4.856,
+        "id": "seaborn\\seaborn\\_core\\groupby.py"
+      },
+      {
+        "type": "file",
+        "size": 7.824,
+        "file_type": "py",
+        "inclusive_size": 7.824,
+        "id": "seaborn\\seaborn\\_core\\moves.py"
+      },
+      {
+        "type": "file",
+        "size": 70.406,
+        "file_type": "py",
+        "inclusive_size": 70.406,
+        "id": "seaborn\\seaborn\\_core\\plot.py"
+      },
+      {
+        "type": "file",
+        "size": 31.447,
+        "file_type": "py",
+        "inclusive_size": 31.447,
+        "id": "seaborn\\seaborn\\_core\\properties.py"
+      },
+      {
+        "type": "file",
+        "size": 5.819,
+        "file_type": "py",
+        "inclusive_size": 5.819,
+        "id": "seaborn\\seaborn\\_core\\rules.py"
+      },
+      {
+        "type": "file",
+        "size": 36.395,
+        "file_type": "py",
+        "inclusive_size": 36.395,
+        "id": "seaborn\\seaborn\\_core\\scales.py"
+      },
+      {
+        "type": "file",
+        "size": 10.227,
+        "file_type": "py",
+        "inclusive_size": 10.227,
+        "id": "seaborn\\seaborn\\_core\\subplots.py"
+      },
+      {
+        "type": "file",
+        "size": 1.65,
+        "file_type": "py",
+        "inclusive_size": 1.65,
+        "id": "seaborn\\seaborn\\_core\\typing.py"
+      },
+      {
+        "type": "file",
+        "size": 0.0,
+        "file_type": "py",
+        "inclusive_size": 0.0,
+        "id": "seaborn\\seaborn\\_core\\__init__.py"
+      },
+      {
+        "type": "file",
+        "size": 9.214,
+        "file_type": "py",
+        "inclusive_size": 9.214,
+        "id": "seaborn\\seaborn\\external\\appdirs.py"
+      },
+      {
+        "type": "file",
+        "size": 24.011,
+        "file_type": "py",
+        "inclusive_size": 24.011,
+        "id": "seaborn\\seaborn\\external\\docscrape.py"
+      },
+      {
+        "type": "file",
+        "size": 6.979,
+        "file_type": "py",
+        "inclusive_size": 6.979,
+        "id": "seaborn\\seaborn\\external\\husl.py"
+      },
+      {
+        "type": "file",
+        "size": 14.106,
+        "file_type": "py",
+        "inclusive_size": 14.106,
+        "id": "seaborn\\seaborn\\external\\kde.py"
+      },
+      {
+        "type": "file",
+        "size": 13.862,
+        "file_type": "py",
+        "inclusive_size": 13.862,
+        "id": "seaborn\\seaborn\\external\\version.py"
+      },
+      {
+        "type": "file",
+        "size": 0.0,
+        "file_type": "py",
+        "inclusive_size": 0.0,
+        "id": "seaborn\\seaborn\\external\\__init__.py"
+      },
+      {
+        "type": "file",
+        "size": 4.45,
+        "file_type": "py",
+        "inclusive_size": 4.45,
+        "id": "seaborn\\seaborn\\colors\\crayons.py"
+      },
+      {
+        "type": "file",
+        "size": 36.328,
+        "file_type": "py",
+        "inclusive_size": 36.328,
+        "id": "seaborn\\seaborn\\colors\\xkcd_rgb.py"
+      },
+      {
+        "type": "file",
+        "size": 0.09,
+        "file_type": "py",
+        "inclusive_size": 0.09,
+        "id": "seaborn\\seaborn\\colors\\__init__.py"
+      },
+      {
+        "type": "file",
+        "size": 1.406,
+        "file_type": "APPDIRS_LICENSE",
+        "inclusive_size": 1.406,
+        "id": "seaborn\\licences\\APPDIRS_LICENSE"
+      },
+      {
+        "type": "file",
+        "size": 1.066,
+        "file_type": "HUSL_LICENSE",
+        "inclusive_size": 1.066,
+        "id": "seaborn\\licences\\HUSL_LICENSE"
+      },
+      {
+        "type": "file",
+        "size": 1.317,
+        "file_type": "NUMPYDOC_LICENSE",
+        "inclusive_size": 1.317,
+        "id": "seaborn\\licences\\NUMPYDOC_LICENSE"
+      },
+      {
+        "type": "file",
+        "size": 1.367,
+        "file_type": "PACKAGING_LICENSE",
+        "inclusive_size": 1.367,
+        "id": "seaborn\\licences\\PACKAGING_LICENSE"
+      },
+      {
+        "type": "file",
+        "size": 1.567,
+        "file_type": "SCIPY_LICENSE",
+        "inclusive_size": 1.567,
+        "id": "seaborn\\licences\\SCIPY_LICENSE"
+      },
+      {
+        "type": "file",
+        "size": 0.018,
+        "file_type": "gitignore",
+        "inclusive_size": 0.018,
+        "id": "seaborn\\examples\\.gitignore"
+      },
+      {
+        "type": "file",
+        "size": 0.44,
+        "file_type": "py",
+        "inclusive_size": 0.44,
+        "id": "seaborn\\examples\\anscombes_quartet.py"
+      },
+      {
+        "type": "file",
+        "size": 0.794,
+        "file_type": "py",
+        "inclusive_size": 0.794,
+        "id": "seaborn\\examples\\different_scatter_variables.py"
+      },
+      {
+        "type": "file",
+        "size": 0.404,
+        "file_type": "py",
+        "inclusive_size": 0.404,
+        "id": "seaborn\\examples\\errorband_lineplots.py"
+      },
+      {
+        "type": "file",
+        "size": 0.343,
+        "file_type": "py",
+        "inclusive_size": 0.343,
+        "id": "seaborn\\examples\\faceted_histogram.py"
+      },
+      {
+        "type": "file",
+        "size": 0.547,
+        "file_type": "py",
+        "inclusive_size": 0.547,
+        "id": "seaborn\\examples\\faceted_lineplot.py"
+      },
+      {
+        "type": "file",
+        "size": 0.451,
+        "file_type": "py",
+        "inclusive_size": 0.451,
+        "id": "seaborn\\examples\\grouped_barplot.py"
+      },
+      {
+        "type": "file",
+        "size": 0.408,
+        "file_type": "py",
+        "inclusive_size": 0.408,
+        "id": "seaborn\\examples\\grouped_boxplot.py"
+      },
+      {
+        "type": "file",
+        "size": 0.476,
+        "file_type": "py",
+        "inclusive_size": 0.476,
+        "id": "seaborn\\examples\\grouped_violinplots.py"
+      },
+      {
+        "type": "file",
+        "size": 1.157,
+        "file_type": "py",
+        "inclusive_size": 1.157,
+        "id": "seaborn\\examples\\heat_scatter.py"
+      },
+      {
+        "type": "file",
+        "size": 0.338,
+        "file_type": "py",
+        "inclusive_size": 0.338,
+        "id": "seaborn\\examples\\hexbin_marginals.py"
+      },
+      {
+        "type": "file",
+        "size": 0.591,
+        "file_type": "py",
+        "inclusive_size": 0.591,
+        "id": "seaborn\\examples\\histogram_stacked.py"
+      },
+      {
+        "type": "file",
+        "size": 0.774,
+        "file_type": "py",
+        "inclusive_size": 0.774,
+        "id": "seaborn\\examples\\horizontal_boxplot.py"
+      },
+      {
+        "type": "file",
+        "size": 1.096,
+        "file_type": "py",
+        "inclusive_size": 1.096,
+        "id": "seaborn\\examples\\jitter_stripplot.py"
+      },
+      {
+        "type": "file",
+        "size": 0.722,
+        "file_type": "py",
+        "inclusive_size": 0.722,
+        "id": "seaborn\\examples\\joint_histogram.py"
+      },
+      {
+        "type": "file",
+        "size": 0.399,
+        "file_type": "py",
+        "inclusive_size": 0.399,
+        "id": "seaborn\\examples\\joint_kde.py"
+      },
+      {
+        "type": "file",
+        "size": 1.424,
+        "file_type": "py",
+        "inclusive_size": 1.424,
+        "id": "seaborn\\examples\\kde_ridgeplot.py"
+      },
+      {
+        "type": "file",
+        "size": 0.37,
+        "file_type": "py",
+        "inclusive_size": 0.37,
+        "id": "seaborn\\examples\\large_distributions.py"
+      },
+      {
+        "type": "file",
+        "size": 0.64,
+        "file_type": "py",
+        "inclusive_size": 0.64,
+        "id": "seaborn\\examples\\layered_bivariate_plot.py"
+      },
+      {
+        "type": "file",
+        "size": 0.557,
+        "file_type": "py",
+        "inclusive_size": 0.557,
+        "id": "seaborn\\examples\\logistic_regression.py"
+      },
+      {
+        "type": "file",
+        "size": 1.149,
+        "file_type": "py",
+        "inclusive_size": 1.149,
+        "id": "seaborn\\examples\\many_facets.py"
+      },
+      {
+        "type": "file",
+        "size": 0.942,
+        "file_type": "py",
+        "inclusive_size": 0.942,
+        "id": "seaborn\\examples\\many_pairwise_correlations.py"
+      },
+      {
+        "type": "file",
+        "size": 0.506,
+        "file_type": "py",
+        "inclusive_size": 0.506,
+        "id": "seaborn\\examples\\marginal_ticks.py"
+      },
+      {
+        "type": "file",
+        "size": 0.506,
+        "file_type": "py",
+        "inclusive_size": 0.506,
+        "id": "seaborn\\examples\\multiple_bivariate_kde.py"
+      },
+      {
+        "type": "file",
+        "size": 0.472,
+        "file_type": "py",
+        "inclusive_size": 0.472,
+        "id": "seaborn\\examples\\multiple_conditional_kde.py"
+      },
+      {
+        "type": "file",
+        "size": 0.398,
+        "file_type": "py",
+        "inclusive_size": 0.398,
+        "id": "seaborn\\examples\\multiple_ecdf.py"
+      },
+      {
+        "type": "file",
+        "size": 0.502,
+        "file_type": "py",
+        "inclusive_size": 0.502,
+        "id": "seaborn\\examples\\multiple_regression.py"
+      },
+      {
+        "type": "file",
+        "size": 0.557,
+        "file_type": "py",
+        "inclusive_size": 0.557,
+        "id": "seaborn\\examples\\paired_pointplots.py"
+      },
+      {
+        "type": "file",
+        "size": 1.134,
+        "file_type": "py",
+        "inclusive_size": 1.134,
+        "id": "seaborn\\examples\\pairgrid_dotplot.py"
+      },
+      {
+        "type": "file",
+        "size": 0.332,
+        "file_type": "py",
+        "inclusive_size": 0.332,
+        "id": "seaborn\\examples\\pair_grid_with_kde.py"
+      },
+      {
+        "type": "file",
+        "size": 1.05,
+        "file_type": "py",
+        "inclusive_size": 1.05,
+        "id": "seaborn\\examples\\palette_choices.py"
+      },
+      {
+        "type": "file",
+        "size": 0.926,
+        "file_type": "py",
+        "inclusive_size": 0.926,
+        "id": "seaborn\\examples\\palette_generation.py"
+      },
+      {
+        "type": "file",
+        "size": 0.898,
+        "file_type": "py",
+        "inclusive_size": 0.898,
+        "id": "seaborn\\examples\\part_whole_bars.py"
+      },
+      {
+        "type": "file",
+        "size": 0.502,
+        "file_type": "py",
+        "inclusive_size": 0.502,
+        "id": "seaborn\\examples\\pointplot_anova.py"
+      },
+      {
+        "type": "file",
+        "size": 0.774,
+        "file_type": "py",
+        "inclusive_size": 0.774,
+        "id": "seaborn\\examples\\radial_facets.py"
+      },
+      {
+        "type": "file",
+        "size": 0.404,
+        "file_type": "py",
+        "inclusive_size": 0.404,
+        "id": "seaborn\\examples\\regression_marginals.py"
+      },
+      {
+        "type": "file",
+        "size": 0.378,
+        "file_type": "py",
+        "inclusive_size": 0.378,
+        "id": "seaborn\\examples\\residplot.py"
+      },
+      {
+        "type": "file",
+        "size": 0.402,
+        "file_type": "py",
+        "inclusive_size": 0.402,
+        "id": "seaborn\\examples\\scatterplot_categorical.py"
+      },
+      {
+        "type": "file",
+        "size": 0.191,
+        "file_type": "py",
+        "inclusive_size": 0.191,
+        "id": "seaborn\\examples\\scatterplot_matrix.py"
+      },
+      {
+        "type": "file",
+        "size": 0.618,
+        "file_type": "py",
+        "inclusive_size": 0.618,
+        "id": "seaborn\\examples\\scatterplot_sizes.py"
+      },
+      {
+        "type": "file",
+        "size": 0.468,
+        "file_type": "py",
+        "inclusive_size": 0.468,
+        "id": "seaborn\\examples\\scatter_bubbles.py"
+      },
+      {
+        "type": "file",
+        "size": 0.303,
+        "file_type": "py",
+        "inclusive_size": 0.303,
+        "id": "seaborn\\examples\\simple_violinplots.py"
+      },
+      {
+        "type": "file",
+        "size": 0.492,
+        "file_type": "py",
+        "inclusive_size": 0.492,
+        "id": "seaborn\\examples\\smooth_bivariate_kde.py"
+      },
+      {
+        "type": "file",
+        "size": 0.49,
+        "file_type": "py",
+        "inclusive_size": 0.49,
+        "id": "seaborn\\examples\\spreadsheet_heatmap.py"
+      },
+      {
+        "type": "file",
+        "size": 0.404,
+        "file_type": "py",
+        "inclusive_size": 0.404,
+        "id": "seaborn\\examples\\strip_regplot.py"
+      },
+      {
+        "type": "file",
+        "size": 1.246,
+        "file_type": "py",
+        "inclusive_size": 1.246,
+        "id": "seaborn\\examples\\structured_heatmap.py"
+      },
+      {
+        "type": "file",
+        "size": 0.37,
+        "file_type": "py",
+        "inclusive_size": 0.37,
+        "id": "seaborn\\examples\\three_variable_histogram.py"
+      },
+      {
+        "type": "file",
+        "size": 1.062,
+        "file_type": "py",
+        "inclusive_size": 1.062,
+        "id": "seaborn\\examples\\timeseries_facets.py"
+      },
+      {
+        "type": "file",
+        "size": 0.49,
+        "file_type": "py",
+        "inclusive_size": 0.49,
+        "id": "seaborn\\examples\\wide_data_lineplot.py"
+      },
+      {
+        "type": "file",
+        "size": 1.102,
+        "file_type": "py",
+        "inclusive_size": 1.102,
+        "id": "seaborn\\examples\\wide_form_violinplot.py"
+      },
+      {
+        "type": "file",
+        "size": 0.12,
+        "file_type": "gitignore",
+        "inclusive_size": 0.12,
+        "id": "seaborn\\doc\\.gitignore"
+      },
+      {
+        "type": "file",
+        "size": 4.281,
+        "file_type": "rst",
+        "inclusive_size": 4.281,
+        "id": "seaborn\\doc\\api.rst"
+      },
+      {
+        "type": "file",
+        "size": 1.65,
+        "file_type": "rst",
+        "inclusive_size": 1.65,
+        "id": "seaborn\\doc\\citing.rst"
+      },
+      {
+        "type": "file",
+        "size": 6.002,
+        "file_type": "py",
+        "inclusive_size": 6.002,
+        "id": "seaborn\\doc\\conf.py"
+      },
+      {
+        "type": "dir",
+        "size": 0,
+        "file_type": "dir",
+        "inclusive_size": 0.0,
+        "id": "seaborn\\doc\\example_thumbs"
+      },
+      {
+        "type": "file",
+        "size": 30.255,
+        "file_type": "rst",
+        "inclusive_size": 30.255,
+        "id": "seaborn\\doc\\faq.rst"
+      },
+      {
+        "type": "file",
+        "size": 3.299,
+        "file_type": "rst",
+        "inclusive_size": 3.299,
+        "id": "seaborn\\doc\\index.rst"
+      },
+      {
+        "type": "file",
+        "size": 5.488,
+        "file_type": "rst",
+        "inclusive_size": 5.488,
+        "id": "seaborn\\doc\\installing.rst"
+      },
+      {
+        "type": "file",
+        "size": 0.8,
+        "file_type": "bat",
+        "inclusive_size": 0.8,
+        "id": "seaborn\\doc\\make.bat"
+      },
+      {
+        "type": "file",
+        "size": 6.183,
+        "file_type": "Makefile",
+        "inclusive_size": 6.183,
+        "id": "seaborn\\doc\\Makefile"
+      },
+      {
+        "type": "file",
+        "size": 0.022,
+        "file_type": "matplotlibrc",
+        "inclusive_size": 0.022,
+        "id": "seaborn\\doc\\matplotlibrc"
+      },
+      {
+        "type": "file",
+        "size": 1.168,
+        "file_type": "md",
+        "inclusive_size": 1.168,
+        "id": "seaborn\\doc\\README.md"
+      },
+      {
+        "type": "dir",
+        "size": 0,
+        "file_type": "dir",
+        "inclusive_size": 22.769,
+        "id": "seaborn\\doc\\sphinxext"
+      },
+      {
+        "type": "dir",
+        "size": 4096,
+        "file_type": "dir",
+        "inclusive_size": 15.706,
+        "id": "seaborn\\doc\\tools"
+      },
+      {
+        "type": "file",
+        "size": 0.51,
+        "file_type": "yaml",
+        "inclusive_size": 0.51,
+        "id": "seaborn\\doc\\tutorial.yaml"
+      },
+      {
+        "type": "dir",
+        "size": 8192,
+        "file_type": "dir",
+        "inclusive_size": 118.903,
+        "id": "seaborn\\doc\\whatsnew"
+      },
+      {
+        "type": "dir",
+        "size": 40960,
+        "file_type": "dir",
+        "inclusive_size": 359.942,
+        "id": "seaborn\\doc\\_docstrings"
+      },
+      {
+        "type": "dir",
+        "size": 8192,
+        "file_type": "dir",
+        "inclusive_size": 2829.547,
+        "id": "seaborn\\doc\\_static"
+      },
+      {
+        "type": "dir",
+        "size": 4096,
+        "file_type": "dir",
+        "inclusive_size": 3.557,
+        "id": "seaborn\\doc\\_templates"
+      },
+      {
+        "type": "dir",
+        "size": 4096,
+        "file_type": "dir",
+        "inclusive_size": 304.784,
+        "id": "seaborn\\doc\\_tutorial"
+      },
+      {
+        "type": "file",
+        "size": 12.416,
+        "file_type": "ipynb",
+        "inclusive_size": 12.416,
+        "id": "seaborn\\doc\\_tutorial\\aesthetics.ipynb"
+      },
+      {
+        "type": "file",
+        "size": 20.544,
+        "file_type": "ipynb",
+        "inclusive_size": 20.544,
+        "id": "seaborn\\doc\\_tutorial\\axis_grids.ipynb"
+      },
+      {
+        "type": "file",
+        "size": 20.387,
+        "file_type": "ipynb",
+        "inclusive_size": 20.387,
+        "id": "seaborn\\doc\\_tutorial\\categorical.ipynb"
+      },
+      {
+        "type": "file",
+        "size": 36.069,
+        "file_type": "ipynb",
+        "inclusive_size": 36.069,
+        "id": "seaborn\\doc\\_tutorial\\color_palettes.ipynb"
+      },
+      {
+        "type": "file",
+        "size": 20.438,
+        "file_type": "ipynb",
+        "inclusive_size": 20.438,
+        "id": "seaborn\\doc\\_tutorial\\data_structure.ipynb"
+      },
+      {
+        "type": "file",
+        "size": 29.743,
+        "file_type": "ipynb",
+        "inclusive_size": 29.743,
+        "id": "seaborn\\doc\\_tutorial\\distributions.ipynb"
+      },
+      {
+        "type": "file",
+        "size": 15.483,
+        "file_type": "ipynb",
+        "inclusive_size": 15.483,
+        "id": "seaborn\\doc\\_tutorial\\error_bars.ipynb"
+      },
+      {
+        "type": "file",
+        "size": 20.15,
+        "file_type": "ipynb",
+        "inclusive_size": 20.15,
+        "id": "seaborn\\doc\\_tutorial\\function_overview.ipynb"
+      },
+      {
+        "type": "file",
+        "size": 18.697,
+        "file_type": "ipynb",
+        "inclusive_size": 18.697,
+        "id": "seaborn\\doc\\_tutorial\\introduction.ipynb"
+      },
+      {
+        "type": "file",
+        "size": 0.268,
+        "file_type": "Makefile",
+        "inclusive_size": 0.268,
+        "id": "seaborn\\doc\\_tutorial\\Makefile"
+      },
+      {
+        "type": "file",
+        "size": 36.328,
+        "file_type": "ipynb",
+        "inclusive_size": 36.328,
+        "id": "seaborn\\doc\\_tutorial\\objects_interface.ipynb"
+      },
+      {
+        "type": "file",
+        "size": 35.985,
+        "file_type": "ipynb",
+        "inclusive_size": 35.985,
+        "id": "seaborn\\doc\\_tutorial\\properties.ipynb"
+      },
+      {
+        "type": "file",
+        "size": 15.861,
+        "file_type": "ipynb",
+        "inclusive_size": 15.861,
+        "id": "seaborn\\doc\\_tutorial\\regression.ipynb"
+      },
+      {
+        "type": "file",
+        "size": 22.415,
+        "file_type": "ipynb",
+        "inclusive_size": 22.415,
+        "id": "seaborn\\doc\\_tutorial\\relational.ipynb"
+      },
+      {
+        "type": "dir",
+        "size": 0,
+        "file_type": "dir",
+        "inclusive_size": 2.064,
+        "id": "seaborn\\doc\\_templates\\autosummary"
+      },
+      {
+        "type": "file",
+        "size": 1.404,
+        "file_type": "html",
+        "inclusive_size": 1.404,
+        "id": "seaborn\\doc\\_templates\\layout.html"
+      },
+      {
+        "type": "file",
+        "size": 0.089,
+        "file_type": "html",
+        "inclusive_size": 0.089,
+        "id": "seaborn\\doc\\_templates\\version.html"
+      },
+      {
+        "type": "file",
+        "size": 0.111,
+        "file_type": "rst",
+        "inclusive_size": 0.111,
+        "id": "seaborn\\doc\\_templates\\autosummary\\base.rst"
+      },
+      {
+        "type": "file",
+        "size": 0.58,
+        "file_type": "rst",
+        "inclusive_size": 0.58,
+        "id": "seaborn\\doc\\_templates\\autosummary\\class.rst"
+      },
+      {
+        "type": "file",
+        "size": 0.103,
+        "file_type": "rst",
+        "inclusive_size": 0.103,
+        "id": "seaborn\\doc\\_templates\\autosummary\\object.rst"
+      },
+      {
+        "type": "file",
+        "size": 1.112,
+        "file_type": "rst",
+        "inclusive_size": 1.112,
+        "id": "seaborn\\doc\\_templates\\autosummary\\plot.rst"
+      },
+      {
+        "type": "file",
+        "size": 0.158,
+        "file_type": "rst",
+        "inclusive_size": 0.158,
+        "id": "seaborn\\doc\\_templates\\autosummary\\scale.rst"
+      },
+      {
+        "type": "file",
+        "size": 2.711,
+        "file_type": "js",
+        "inclusive_size": 2.711,
+        "id": "seaborn\\doc\\_static\\copybutton.js"
+      },
+      {
+        "type": "dir",
+        "size": 0,
+        "file_type": "dir",
+        "inclusive_size": 2.345,
+        "id": "seaborn\\doc\\_static\\css"
+      },
+      {
+        "type": "file",
+        "size": 15.406,
+        "file_type": "ico",
+        "inclusive_size": 15.406,
+        "id": "seaborn\\doc\\_static\\favicon.ico"
+      },
+      {
+        "type": "file",
+        "size": 270.398,
+        "file_type": "ico",
+        "inclusive_size": 270.398,
+        "id": "seaborn\\doc\\_static\\favicon_old.ico"
+      },
+      {
+        "type": "file",
+        "size": 70.81,
+        "file_type": "png",
+        "inclusive_size": 70.81,
+        "id": "seaborn\\doc\\_static\\logo-mark-darkbg.png"
+      },
+      {
+        "type": "file",
+        "size": 273.71,
+        "file_type": "svg",
+        "inclusive_size": 273.71,
+        "id": "seaborn\\doc\\_static\\logo-mark-darkbg.svg"
+      },
+      {
+        "type": "file",
+        "size": 73.186,
+        "file_type": "png",
+        "inclusive_size": 73.186,
+        "id": "seaborn\\doc\\_static\\logo-mark-lightbg.png"
+      },
+      {
+        "type": "file",
+        "size": 273.71,
+        "file_type": "svg",
+        "inclusive_size": 273.71,
+        "id": "seaborn\\doc\\_static\\logo-mark-lightbg.svg"
+      },
+      {
+        "type": "file",
+        "size": 76.027,
+        "file_type": "png",
+        "inclusive_size": 76.027,
+        "id": "seaborn\\doc\\_static\\logo-mark-whitebg.png"
+      },
+      {
+        "type": "file",
+        "size": 81.236,
+        "file_type": "png",
+        "inclusive_size": 81.236,
+        "id": "seaborn\\doc\\_static\\logo-tall-darkbg.png"
+      },
+      {
+        "type": "file",
+        "size": 282.089,
+        "file_type": "svg",
+        "inclusive_size": 282.089,
+        "id": "seaborn\\doc\\_static\\logo-tall-darkbg.svg"
+      },
+      {
+        "type": "file",
+        "size": 83.392,
+        "file_type": "png",
+        "inclusive_size": 83.392,
+        "id": "seaborn\\doc\\_static\\logo-tall-lightbg.png"
+      },
+      {
+        "type": "file",
+        "size": 282.089,
+        "file_type": "svg",
+        "inclusive_size": 282.089,
+        "id": "seaborn\\doc\\_static\\logo-tall-lightbg.svg"
+      },
+      {
+        "type": "file",
+        "size": 90.21,
+        "file_type": "png",
+        "inclusive_size": 90.21,
+        "id": "seaborn\\doc\\_static\\logo-tall-whitebg.png"
+      },
+      {
+        "type": "file",
+        "size": 122.505,
+        "file_type": "png",
+        "inclusive_size": 122.505,
+        "id": "seaborn\\doc\\_static\\logo-wide-darkbg.png"
+      },
+      {
+        "type": "file",
+        "size": 282.732,
+        "file_type": "svg",
+        "inclusive_size": 282.732,
+        "id": "seaborn\\doc\\_static\\logo-wide-darkbg.svg"
+      },
+      {
+        "type": "file",
+        "size": 124.485,
+        "file_type": "png",
+        "inclusive_size": 124.485,
+        "id": "seaborn\\doc\\_static\\logo-wide-lightbg.png"
+      },
+      {
+        "type": "file",
+        "size": 282.732,
+        "file_type": "svg",
+        "inclusive_size": 282.732,
+        "id": "seaborn\\doc\\_static\\logo-wide-lightbg.svg"
+      },
+      {
+        "type": "file",
+        "size": 139.774,
+        "file_type": "png",
+        "inclusive_size": 139.774,
+        "id": "seaborn\\doc\\_static\\logo-wide-whitebg.png"
+      },
+      {
+        "type": "file",
+        "size": 2.345,
+        "file_type": "css",
+        "inclusive_size": 2.345,
+        "id": "seaborn\\doc\\_static\\css\\custom.css"
+      },
+      {
+        "type": "file",
+        "size": 2.026,
+        "file_type": "ipynb",
+        "inclusive_size": 2.026,
+        "id": "seaborn\\doc\\_docstrings\\axes_style.ipynb"
+      },
+      {
+        "type": "file",
+        "size": 7.375,
+        "file_type": "ipynb",
+        "inclusive_size": 7.375,
+        "id": "seaborn\\doc\\_docstrings\\barplot.ipynb"
+      },
+      {
+        "type": "file",
+        "size": 2.249,
+        "file_type": "ipynb",
+        "inclusive_size": 2.249,
+        "id": "seaborn\\doc\\_docstrings\\blend_palette.ipynb"
+      },
+      {
+        "type": "file",
+        "size": 7.342,
+        "file_type": "ipynb",
+        "inclusive_size": 7.342,
+        "id": "seaborn\\doc\\_docstrings\\boxenplot.ipynb"
+      },
+      {
+        "type": "file",
+        "size": 5.256,
+        "file_type": "ipynb",
+        "inclusive_size": 5.256,
+        "id": "seaborn\\doc\\_docstrings\\boxplot.ipynb"
+      },
+      {
+        "type": "file",
+        "size": 4.769,
+        "file_type": "ipynb",
+        "inclusive_size": 4.769,
+        "id": "seaborn\\doc\\_docstrings\\catplot.ipynb"
+      },
+      {
+        "type": "file",
+        "size": 4.084,
+        "file_type": "ipynb",
+        "inclusive_size": 4.084,
+        "id": "seaborn\\doc\\_docstrings\\clustermap.ipynb"
+      },
+      {
+        "type": "file",
+        "size": 5.512,
+        "file_type": "ipynb",
+        "inclusive_size": 5.512,
+        "id": "seaborn\\doc\\_docstrings\\color_palette.ipynb"
+      },
+      {
+        "type": "file",
+        "size": 2.044,
+        "file_type": "ipynb",
+        "inclusive_size": 2.044,
+        "id": "seaborn\\doc\\_docstrings\\countplot.ipynb"
+      },
+      {
+        "type": "file",
+        "size": 4.878,
+        "file_type": "ipynb",
+        "inclusive_size": 4.878,
+        "id": "seaborn\\doc\\_docstrings\\cubehelix_palette.ipynb"
+      },
+      {
+        "type": "file",
+        "size": 2.955,
+        "file_type": "ipynb",
+        "inclusive_size": 2.955,
+        "id": "seaborn\\doc\\_docstrings\\dark_palette.ipynb"
+      },
+      {
+        "type": "file",
+        "size": 5.754,
+        "file_type": "ipynb",
+        "inclusive_size": 5.754,
+        "id": "seaborn\\doc\\_docstrings\\displot.ipynb"
+      },
+      {
+        "type": "file",
+        "size": 3.964,
+        "file_type": "ipynb",
+        "inclusive_size": 3.964,
+        "id": "seaborn\\doc\\_docstrings\\diverging_palette.ipynb"
+      },
+      {
+        "type": "file",
+        "size": 3.099,
+        "file_type": "ipynb",
+        "inclusive_size": 3.099,
+        "id": "seaborn\\doc\\_docstrings\\ecdfplot.ipynb"
+      },
+      {
+        "type": "file",
+        "size": 8.685,
+        "file_type": "ipynb",
+        "inclusive_size": 8.685,
+        "id": "seaborn\\doc\\_docstrings\\FacetGrid.ipynb"
+      },
+      {
+        "type": "file",
+        "size": 4.578,
+        "file_type": "ipynb",
+        "inclusive_size": 4.578,
+        "id": "seaborn\\doc\\_docstrings\\heatmap.ipynb"
+      },
+      {
+        "type": "file",
+        "size": 11.761,
+        "file_type": "ipynb",
+        "inclusive_size": 11.761,
+        "id": "seaborn\\doc\\_docstrings\\histplot.ipynb"
+      },
+      {
+        "type": "file",
+        "size": 3.317,
+        "file_type": "ipynb",
+        "inclusive_size": 3.317,
+        "id": "seaborn\\doc\\_docstrings\\hls_palette.ipynb"
+      },
+      {
+        "type": "file",
+        "size": 3.238,
+        "file_type": "ipynb",
+        "inclusive_size": 3.238,
+        "id": "seaborn\\doc\\_docstrings\\husl_palette.ipynb"
+      },
+      {
+        "type": "file",
+        "size": 6.326,
+        "file_type": "ipynb",
+        "inclusive_size": 6.326,
+        "id": "seaborn\\doc\\_docstrings\\JointGrid.ipynb"
+      },
+      {
+        "type": "file",
+        "size": 4.947,
+        "file_type": "ipynb",
+        "inclusive_size": 4.947,
+        "id": "seaborn\\doc\\_docstrings\\jointplot.ipynb"
+      },
+      {
+        "type": "file",
+        "size": 7.389,
+        "file_type": "ipynb",
+        "inclusive_size": 7.389,
+        "id": "seaborn\\doc\\_docstrings\\kdeplot.ipynb"
+      },
+      {
+        "type": "file",
+        "size": 2.961,
+        "file_type": "ipynb",
+        "inclusive_size": 2.961,
+        "id": "seaborn\\doc\\_docstrings\\light_palette.ipynb"
+      },
+      {
+        "type": "file",
+        "size": 10.916,
+        "file_type": "ipynb",
+        "inclusive_size": 10.916,
+        "id": "seaborn\\doc\\_docstrings\\lineplot.ipynb"
+      },
+      {
+        "type": "file",
+        "size": 3.788,
+        "file_type": "ipynb",
+        "inclusive_size": 3.788,
+        "id": "seaborn\\doc\\_docstrings\\lmplot.ipynb"
+      },
+      {
+        "type": "file",
+        "size": 0.422,
+        "file_type": "Makefile",
+        "inclusive_size": 0.422,
+        "id": "seaborn\\doc\\_docstrings\\Makefile"
+      },
+      {
+        "type": "file",
+        "size": 4.109,
+        "file_type": "ipynb",
+        "inclusive_size": 4.109,
+        "id": "seaborn\\doc\\_docstrings\\move_legend.ipynb"
+      },
+      {
+        "type": "file",
+        "size": 3.007,
+        "file_type": "ipynb",
+        "inclusive_size": 3.007,
+        "id": "seaborn\\doc\\_docstrings\\mpl_palette.ipynb"
+      },
+      {
+        "type": "file",
+        "size": 3.471,
+        "file_type": "ipynb",
+        "inclusive_size": 3.471,
+        "id": "seaborn\\doc\\_docstrings\\objects.Agg.ipynb"
+      },
+      {
+        "type": "file",
+        "size": 3.828,
+        "file_type": "ipynb",
+        "inclusive_size": 3.828,
+        "id": "seaborn\\doc\\_docstrings\\objects.Area.ipynb"
+      },
+      {
+        "type": "file",
+        "size": 3.624,
+        "file_type": "ipynb",
+        "inclusive_size": 3.624,
+        "id": "seaborn\\doc\\_docstrings\\objects.Band.ipynb"
+      },
+      {
+        "type": "file",
+        "size": 4.57,
+        "file_type": "ipynb",
+        "inclusive_size": 4.57,
+        "id": "seaborn\\doc\\_docstrings\\objects.Bar.ipynb"
+      },
+      {
+        "type": "file",
+        "size": 4.15,
+        "file_type": "ipynb",
+        "inclusive_size": 4.15,
+        "id": "seaborn\\doc\\_docstrings\\objects.Bars.ipynb"
+      },
+      {
+        "type": "file",
+        "size": 2.815,
+        "file_type": "ipynb",
+        "inclusive_size": 2.815,
+        "id": "seaborn\\doc\\_docstrings\\objects.Count.ipynb"
+      },
+      {
+        "type": "file",
+        "size": 3.88,
+        "file_type": "ipynb",
+        "inclusive_size": 3.88,
+        "id": "seaborn\\doc\\_docstrings\\objects.Dash.ipynb"
+      },
+      {
+        "type": "file",
+        "size": 4.742,
+        "file_type": "ipynb",
+        "inclusive_size": 4.742,
+        "id": "seaborn\\doc\\_docstrings\\objects.Dodge.ipynb"
+      },
+      {
+        "type": "file",
+        "size": 4.688,
+        "file_type": "ipynb",
+        "inclusive_size": 4.688,
+        "id": "seaborn\\doc\\_docstrings\\objects.Dot.ipynb"
+      },
+      {
+        "type": "file",
+        "size": 3.364,
+        "file_type": "ipynb",
+        "inclusive_size": 3.364,
+        "id": "seaborn\\doc\\_docstrings\\objects.Dots.ipynb"
+      },
+      {
+        "type": "file",
+        "size": 3.97,
+        "file_type": "ipynb",
+        "inclusive_size": 3.97,
+        "id": "seaborn\\doc\\_docstrings\\objects.Est.ipynb"
+      },
+      {
+        "type": "file",
+        "size": 5.656,
+        "file_type": "ipynb",
+        "inclusive_size": 5.656,
+        "id": "seaborn\\doc\\_docstrings\\objects.Hist.ipynb"
+      },
+      {
+        "type": "file",
+        "size": 4.378,
+        "file_type": "ipynb",
+        "inclusive_size": 4.378,
+        "id": "seaborn\\doc\\_docstrings\\objects.Jitter.ipynb"
+      },
+      {
+        "type": "file",
+        "size": 6.458,
+        "file_type": "ipynb",
+        "inclusive_size": 6.458,
+        "id": "seaborn\\doc\\_docstrings\\objects.KDE.ipynb"
+      },
+      {
+        "type": "file",
+        "size": 4.221,
+        "file_type": "ipynb",
+        "inclusive_size": 4.221,
+        "id": "seaborn\\doc\\_docstrings\\objects.Line.ipynb"
+      },
+      {
+        "type": "file",
+        "size": 2.38,
+        "file_type": "ipynb",
+        "inclusive_size": 2.38,
+        "id": "seaborn\\doc\\_docstrings\\objects.Lines.ipynb"
+      },
+      {
+        "type": "file",
+        "size": 2.24,
+        "file_type": "ipynb",
+        "inclusive_size": 2.24,
+        "id": "seaborn\\doc\\_docstrings\\objects.Norm.ipynb"
+      },
+      {
+        "type": "file",
+        "size": 2.083,
+        "file_type": "ipynb",
+        "inclusive_size": 2.083,
+        "id": "seaborn\\doc\\_docstrings\\objects.Path.ipynb"
+      },
+      {
+        "type": "file",
+        "size": 2.487,
+        "file_type": "ipynb",
+        "inclusive_size": 2.487,
+        "id": "seaborn\\doc\\_docstrings\\objects.Paths.ipynb"
+      },
+      {
+        "type": "file",
+        "size": 2.956,
+        "file_type": "ipynb",
+        "inclusive_size": 2.956,
+        "id": "seaborn\\doc\\_docstrings\\objects.Perc.ipynb"
+      },
+      {
+        "type": "file",
+        "size": 6.963,
+        "file_type": "ipynb",
+        "inclusive_size": 6.963,
+        "id": "seaborn\\doc\\_docstrings\\objects.Plot.add.ipynb"
+      },
+      {
+        "type": "file",
+        "size": 5.111,
+        "file_type": "ipynb",
+        "inclusive_size": 5.111,
+        "id": "seaborn\\doc\\_docstrings\\objects.Plot.config.ipynb"
+      },
+      {
+        "type": "file",
+        "size": 5.398,
+        "file_type": "ipynb",
+        "inclusive_size": 5.398,
+        "id": "seaborn\\doc\\_docstrings\\objects.Plot.facet.ipynb"
+      },
+      {
+        "type": "file",
+        "size": 6.218,
+        "file_type": "ipynb",
+        "inclusive_size": 6.218,
+        "id": "seaborn\\doc\\_docstrings\\objects.Plot.label.ipynb"
+      },
+      {
+        "type": "file",
+        "size": 2.934,
+        "file_type": "ipynb",
+        "inclusive_size": 2.934,
+        "id": "seaborn\\doc\\_docstrings\\objects.Plot.layout.ipynb"
+      },
+      {
+        "type": "file",
+        "size": 2.648,
+        "file_type": "ipynb",
+        "inclusive_size": 2.648,
+        "id": "seaborn\\doc\\_docstrings\\objects.Plot.limit.ipynb"
+      },
+      {
+        "type": "file",
+        "size": 5.2,
+        "file_type": "ipynb",
+        "inclusive_size": 5.2,
+        "id": "seaborn\\doc\\_docstrings\\objects.Plot.on.ipynb"
+      },
+      {
+        "type": "file",
+        "size": 5.555,
+        "file_type": "ipynb",
+        "inclusive_size": 5.555,
+        "id": "seaborn\\doc\\_docstrings\\objects.Plot.pair.ipynb"
+      },
+      {
+        "type": "file",
+        "size": 8.296,
+        "file_type": "ipynb",
+        "inclusive_size": 8.296,
+        "id": "seaborn\\doc\\_docstrings\\objects.Plot.scale.ipynb"
+      },
+      {
+        "type": "file",
+        "size": 3.042,
+        "file_type": "ipynb",
+        "inclusive_size": 3.042,
+        "id": "seaborn\\doc\\_docstrings\\objects.Plot.share.ipynb"
+      },
+      {
+        "type": "file",
+        "size": 4.484,
+        "file_type": "ipynb",
+        "inclusive_size": 4.484,
+        "id": "seaborn\\doc\\_docstrings\\objects.Plot.theme.ipynb"
+      },
+      {
+        "type": "file",
+        "size": 3.682,
+        "file_type": "ipynb",
+        "inclusive_size": 3.682,
+        "id": "seaborn\\doc\\_docstrings\\objects.Range.ipynb"
+      },
+      {
+        "type": "file",
+        "size": 2.245,
+        "file_type": "ipynb",
+        "inclusive_size": 2.245,
+        "id": "seaborn\\doc\\_docstrings\\objects.Shift.ipynb"
+      },
+      {
+        "type": "file",
+        "size": 2.176,
+        "file_type": "ipynb",
+        "inclusive_size": 2.176,
+        "id": "seaborn\\doc\\_docstrings\\objects.Stack.ipynb"
+      },
+      {
+        "type": "file",
+        "size": 4.64,
+        "file_type": "ipynb",
+        "inclusive_size": 4.64,
+        "id": "seaborn\\doc\\_docstrings\\objects.Text.ipynb"
+      },
+      {
+        "type": "file",
+        "size": 6.837,
+        "file_type": "ipynb",
+        "inclusive_size": 6.837,
+        "id": "seaborn\\doc\\_docstrings\\PairGrid.ipynb"
+      },
+      {
+        "type": "file",
+        "size": 5.123,
+        "file_type": "ipynb",
+        "inclusive_size": 5.123,
+        "id": "seaborn\\doc\\_docstrings\\pairplot.ipynb"
+      },
+      {
+        "type": "file",
+        "size": 2.184,
+        "file_type": "ipynb",
+        "inclusive_size": 2.184,
+        "id": "seaborn\\doc\\_docstrings\\plotting_context.ipynb"
+      },
+      {
+        "type": "file",
+        "size": 6.824,
+        "file_type": "ipynb",
+        "inclusive_size": 6.824,
+        "id": "seaborn\\doc\\_docstrings\\pointplot.ipynb"
+      },
+      {
+        "type": "file",
+        "size": 5.939,
+        "file_type": "ipynb",
+        "inclusive_size": 5.939,
+        "id": "seaborn\\doc\\_docstrings\\regplot.ipynb"
+      },
+      {
+        "type": "file",
+        "size": 7.005,
+        "file_type": "ipynb",
+        "inclusive_size": 7.005,
+        "id": "seaborn\\doc\\_docstrings\\relplot.ipynb"
+      },
+      {
+        "type": "file",
+        "size": 2.631,
+        "file_type": "ipynb",
+        "inclusive_size": 2.631,
+        "id": "seaborn\\doc\\_docstrings\\residplot.ipynb"
+      },
+      {
+        "type": "file",
+        "size": 3.065,
+        "file_type": "ipynb",
+        "inclusive_size": 3.065,
+        "id": "seaborn\\doc\\_docstrings\\rugplot.ipynb"
+      },
+      {
+        "type": "file",
+        "size": 7.93,
+        "file_type": "ipynb",
+        "inclusive_size": 7.93,
+        "id": "seaborn\\doc\\_docstrings\\scatterplot.ipynb"
+      },
+      {
+        "type": "file",
+        "size": 2.205,
+        "file_type": "ipynb",
+        "inclusive_size": 2.205,
+        "id": "seaborn\\doc\\_docstrings\\set_context.ipynb"
+      },
+      {
+        "type": "file",
+        "size": 1.798,
+        "file_type": "ipynb",
+        "inclusive_size": 1.798,
+        "id": "seaborn\\doc\\_docstrings\\set_style.ipynb"
+      },
+      {
+        "type": "file",
+        "size": 3.757,
+        "file_type": "ipynb",
+        "inclusive_size": 3.757,
+        "id": "seaborn\\doc\\_docstrings\\set_theme.ipynb"
+      },
+      {
+        "type": "file",
+        "size": 7.625,
+        "file_type": "ipynb",
+        "inclusive_size": 7.625,
+        "id": "seaborn\\doc\\_docstrings\\stripplot.ipynb"
+      },
+      {
+        "type": "file",
+        "size": 7.293,
+        "file_type": "ipynb",
+        "inclusive_size": 7.293,
+        "id": "seaborn\\doc\\_docstrings\\swarmplot.ipynb"
+      },
+      {
+        "type": "file",
+        "size": 8.422,
+        "file_type": "ipynb",
+        "inclusive_size": 8.422,
+        "id": "seaborn\\doc\\_docstrings\\violinplot.ipynb"
+      },
+      {
+        "type": "file",
+        "size": 0.931,
+        "file_type": "rst",
+        "inclusive_size": 0.931,
+        "id": "seaborn\\doc\\whatsnew\\index.rst"
+      },
+      {
+        "type": "file",
+        "size": 1.285,
+        "file_type": "rst",
+        "inclusive_size": 1.285,
+        "id": "seaborn\\doc\\whatsnew\\v0.10.0.rst"
+      },
+      {
+        "type": "file",
+        "size": 1.259,
+        "file_type": "rst",
+        "inclusive_size": 1.259,
+        "id": "seaborn\\doc\\whatsnew\\v0.10.1.rst"
+      },
+      {
+        "type": "file",
+        "size": 17.231,
+        "file_type": "rst",
+        "inclusive_size": 17.231,
+        "id": "seaborn\\doc\\whatsnew\\v0.11.0.rst"
+      },
+      {
+        "type": "file",
+        "size": 2.306,
+        "file_type": "rst",
+        "inclusive_size": 2.306,
+        "id": "seaborn\\doc\\whatsnew\\v0.11.1.rst"
+      },
+      {
+        "type": "file",
+        "size": 5.228,
+        "file_type": "rst",
+        "inclusive_size": 5.228,
+        "id": "seaborn\\doc\\whatsnew\\v0.11.2.rst"
+      },
+      {
+        "type": "file",
+        "size": 10.786,
+        "file_type": "rst",
+        "inclusive_size": 10.786,
+        "id": "seaborn\\doc\\whatsnew\\v0.12.0.rst"
+      },
+      {
+        "type": "file",
+        "size": 2.302,
+        "file_type": "rst",
+        "inclusive_size": 2.302,
+        "id": "seaborn\\doc\\whatsnew\\v0.12.1.rst"
+      },
+      {
+        "type": "file",
+        "size": 1.4,
+        "file_type": "rst",
+        "inclusive_size": 1.4,
+        "id": "seaborn\\doc\\whatsnew\\v0.12.2.rst"
+      },
+      {
+        "type": "file",
+        "size": 12.749,
+        "file_type": "rst",
+        "inclusive_size": 12.749,
+        "id": "seaborn\\doc\\whatsnew\\v0.13.0.rst"
+      },
+      {
+        "type": "file",
+        "size": 1.349,
+        "file_type": "rst",
+        "inclusive_size": 1.349,
+        "id": "seaborn\\doc\\whatsnew\\v0.13.1.rst"
+      },
+      {
+        "type": "file",
+        "size": 0.186,
+        "file_type": "rst",
+        "inclusive_size": 0.186,
+        "id": "seaborn\\doc\\whatsnew\\v0.13.2.rst"
+      },
+      {
+        "type": "file",
+        "size": 5.942,
+        "file_type": "rst",
+        "inclusive_size": 5.942,
+        "id": "seaborn\\doc\\whatsnew\\v0.2.0.rst"
+      },
+      {
+        "type": "file",
+        "size": 0.853,
+        "file_type": "rst",
+        "inclusive_size": 0.853,
+        "id": "seaborn\\doc\\whatsnew\\v0.2.1.rst"
+      },
+      {
+        "type": "file",
+        "size": 6.59,
+        "file_type": "rst",
+        "inclusive_size": 6.59,
+        "id": "seaborn\\doc\\whatsnew\\v0.3.0.rst"
+      },
+      {
+        "type": "file",
+        "size": 1.016,
+        "file_type": "rst",
+        "inclusive_size": 1.016,
+        "id": "seaborn\\doc\\whatsnew\\v0.3.1.rst"
+      },
+      {
+        "type": "file",
+        "size": 4.281,
+        "file_type": "rst",
+        "inclusive_size": 4.281,
+        "id": "seaborn\\doc\\whatsnew\\v0.4.0.rst"
+      },
+      {
+        "type": "file",
+        "size": 4.708,
+        "file_type": "rst",
+        "inclusive_size": 4.708,
+        "id": "seaborn\\doc\\whatsnew\\v0.5.0.rst"
+      },
+      {
+        "type": "file",
+        "size": 0.613,
+        "file_type": "rst",
+        "inclusive_size": 0.613,
+        "id": "seaborn\\doc\\whatsnew\\v0.5.1.rst"
+      },
+      {
+        "type": "file",
+        "size": 11.257,
+        "file_type": "rst",
+        "inclusive_size": 11.257,
+        "id": "seaborn\\doc\\whatsnew\\v0.6.0.rst"
+      },
+      {
+        "type": "file",
+        "size": 2.85,
+        "file_type": "rst",
+        "inclusive_size": 2.85,
+        "id": "seaborn\\doc\\whatsnew\\v0.7.0.rst"
+      },
+      {
+        "type": "file",
+        "size": 2.024,
+        "file_type": "rst",
+        "inclusive_size": 2.024,
+        "id": "seaborn\\doc\\whatsnew\\v0.7.1.rst"
+      },
+      {
+        "type": "file",
+        "size": 4.41,
+        "file_type": "rst",
+        "inclusive_size": 4.41,
+        "id": "seaborn\\doc\\whatsnew\\v0.8.0.rst"
+      },
+      {
+        "type": "file",
+        "size": 1.469,
+        "file_type": "rst",
+        "inclusive_size": 1.469,
+        "id": "seaborn\\doc\\whatsnew\\v0.8.1.rst"
+      },
+      {
+        "type": "file",
+        "size": 10.861,
+        "file_type": "rst",
+        "inclusive_size": 10.861,
+        "id": "seaborn\\doc\\whatsnew\\v0.9.0.rst"
+      },
+      {
+        "type": "file",
+        "size": 5.017,
+        "file_type": "rst",
+        "inclusive_size": 5.017,
+        "id": "seaborn\\doc\\whatsnew\\v0.9.1.rst"
+      },
+      {
+        "type": "file",
+        "size": 1.848,
+        "file_type": "py",
+        "inclusive_size": 1.848,
+        "id": "seaborn\\doc\\tools\\extract_examples.py"
+      },
+      {
+        "type": "file",
+        "size": 7.206,
+        "file_type": "py",
+        "inclusive_size": 7.206,
+        "id": "seaborn\\doc\\tools\\generate_logos.py"
+      },
+      {
+        "type": "file",
+        "size": 6.095,
+        "file_type": "py",
+        "inclusive_size": 6.095,
+        "id": "seaborn\\doc\\tools\\nb_to_doc.py"
+      },
+      {
+        "type": "file",
+        "size": 0.557,
+        "file_type": "py",
+        "inclusive_size": 0.557,
+        "id": "seaborn\\doc\\tools\\set_nb_kernels.py"
+      },
+      {
+        "type": "file",
+        "size": 11.132,
+        "file_type": "py",
+        "inclusive_size": 11.132,
+        "id": "seaborn\\doc\\sphinxext\\gallery_generator.py"
+      },
+      {
+        "type": "file",
+        "size": 11.637,
+        "file_type": "py",
+        "inclusive_size": 11.637,
+        "id": "seaborn\\doc\\sphinxext\\tutorial_builder.py"
+      },
+      {
+        "type": "file",
+        "size": 0.0,
+        "file_type": "gitkeep",
+        "inclusive_size": 0.0,
+        "id": "seaborn\\doc\\example_thumbs\\.gitkeep"
+      },
+      {
+        "type": "file",
+        "size": 0.67,
+        "file_type": "py",
+        "inclusive_size": 0.67,
+        "id": "seaborn\\ci\\cache_datasets.py"
+      },
+      {
+        "type": "file",
+        "size": 0.362,
+        "file_type": "py",
+        "inclusive_size": 0.362,
+        "id": "seaborn\\ci\\check_gallery.py"
+      },
+      {
+        "type": "file",
+        "size": 0.1,
+        "file_type": "txt",
+        "inclusive_size": 0.1,
+        "id": "seaborn\\ci\\deps_pinned.txt"
+      },
+      {
+        "type": "file",
+        "size": 0.144,
+        "file_type": "sh",
+        "inclusive_size": 0.144,
+        "id": "seaborn\\ci\\getmsfonts.sh"
+      },
+      {
+        "type": "file",
+        "size": 2.352,
+        "file_type": "md",
+        "inclusive_size": 2.352,
+        "id": "seaborn\\.github\\CONTRIBUTING.md"
+      },
+      {
+        "type": "file",
+        "size": 0.226,
+        "file_type": "yml",
+        "inclusive_size": 0.226,
+        "id": "seaborn\\.github\\dependabot.yml"
+      },
+      {
+        "type": "dir",
+        "size": 0,
+        "file_type": "dir",
+        "inclusive_size": 3.011,
+        "id": "seaborn\\.github\\workflows"
+      },
+      {
+        "type": "file",
+        "size": 3.011,
+        "file_type": "yaml",
+        "inclusive_size": 3.011,
+        "id": "seaborn\\.github\\workflows\\ci.yaml"
+      }
+    ],
+    "edges": [
+      {
+        "source": "seaborn",
+        "target": "seaborn\\.git"
+      },
+      {
+        "source": "seaborn",
+        "target": "seaborn\\.github"
+      },
+      {
+        "source": "seaborn",
+        "target": "seaborn\\.gitignore"
+      },
+      {
+        "source": "seaborn",
+        "target": "seaborn\\.pre-commit-config.yaml"
+      },
+      {
+        "source": "seaborn",
+        "target": "seaborn\\ci"
+      },
+      {
+        "source": "seaborn",
+        "target": "seaborn\\CITATION.cff"
+      },
+      {
+        "source": "seaborn",
+        "target": "seaborn\\doc"
+      },
+      {
+        "source": "seaborn",
+        "target": "seaborn\\examples"
+      },
+      {
+        "source": "seaborn",
+        "target": "seaborn\\licences"
+      },
+      {
+        "source": "seaborn",
+        "target": "seaborn\\LICENSE.md"
+      },
+      {
+        "source": "seaborn",
+        "target": "seaborn\\Makefile"
+      },
+      {
+        "source": "seaborn",
+        "target": "seaborn\\pyproject.toml"
+      },
+      {
+        "source": "seaborn",
+        "target": "seaborn\\README.md"
+      },
+      {
+        "source": "seaborn",
+        "target": "seaborn\\seaborn"
+      },
+      {
+        "source": "seaborn",
+        "target": "seaborn\\SECURITY.md"
+      },
+      {
+        "source": "seaborn",
+        "target": "seaborn\\setup.cfg"
+      },
+      {
+        "source": "seaborn",
+        "target": "seaborn\\tests"
+      },
+      {
+        "source": "seaborn\\.github",
+        "target": "seaborn\\.github\\CONTRIBUTING.md"
+      },
+      {
+        "source": "seaborn\\.github",
+        "target": "seaborn\\.github\\dependabot.yml"
+      },
+      {
+        "source": "seaborn\\.github",
+        "target": "seaborn\\.github\\workflows"
+      },
+      {
+        "source": "seaborn\\ci",
+        "target": "seaborn\\ci\\cache_datasets.py"
+      },
+      {
+        "source": "seaborn\\ci",
+        "target": "seaborn\\ci\\check_gallery.py"
+      },
+      {
+        "source": "seaborn\\ci",
+        "target": "seaborn\\ci\\deps_pinned.txt"
+      },
+      {
+        "source": "seaborn\\ci",
+        "target": "seaborn\\ci\\getmsfonts.sh"
+      },
+      {
+        "source": "seaborn\\doc",
+        "target": "seaborn\\doc\\.gitignore"
+      },
+      {
+        "source": "seaborn\\doc",
+        "target": "seaborn\\doc\\api.rst"
+      },
+      {
+        "source": "seaborn\\doc",
+        "target": "seaborn\\doc\\citing.rst"
+      },
+      {
+        "source": "seaborn\\doc",
+        "target": "seaborn\\doc\\conf.py"
+      },
+      {
+        "source": "seaborn\\doc",
+        "target": "seaborn\\doc\\example_thumbs"
+      },
+      {
+        "source": "seaborn\\doc",
+        "target": "seaborn\\doc\\faq.rst"
+      },
+      {
+        "source": "seaborn\\doc",
+        "target": "seaborn\\doc\\index.rst"
+      },
+      {
+        "source": "seaborn\\doc",
+        "target": "seaborn\\doc\\installing.rst"
+      },
+      {
+        "source": "seaborn\\doc",
+        "target": "seaborn\\doc\\make.bat"
+      },
+      {
+        "source": "seaborn\\doc",
+        "target": "seaborn\\doc\\Makefile"
+      },
+      {
+        "source": "seaborn\\doc",
+        "target": "seaborn\\doc\\matplotlibrc"
+      },
+      {
+        "source": "seaborn\\doc",
+        "target": "seaborn\\doc\\README.md"
+      },
+      {
+        "source": "seaborn\\doc",
+        "target": "seaborn\\doc\\sphinxext"
+      },
+      {
+        "source": "seaborn\\doc",
+        "target": "seaborn\\doc\\tools"
+      },
+      {
+        "source": "seaborn\\doc",
+        "target": "seaborn\\doc\\tutorial.yaml"
+      },
+      {
+        "source": "seaborn\\doc",
+        "target": "seaborn\\doc\\whatsnew"
+      },
+      {
+        "source": "seaborn\\doc",
+        "target": "seaborn\\doc\\_docstrings"
+      },
+      {
+        "source": "seaborn\\doc",
+        "target": "seaborn\\doc\\_static"
+      },
+      {
+        "source": "seaborn\\doc",
+        "target": "seaborn\\doc\\_templates"
+      },
+      {
+        "source": "seaborn\\doc",
+        "target": "seaborn\\doc\\_tutorial"
+      },
+      {
+        "source": "seaborn\\examples",
+        "target": "seaborn\\examples\\.gitignore"
+      },
+      {
+        "source": "seaborn\\examples",
+        "target": "seaborn\\examples\\anscombes_quartet.py"
+      },
+      {
+        "source": "seaborn\\examples",
+        "target": "seaborn\\examples\\different_scatter_variables.py"
+      },
+      {
+        "source": "seaborn\\examples",
+        "target": "seaborn\\examples\\errorband_lineplots.py"
+      },
+      {
+        "source": "seaborn\\examples",
+        "target": "seaborn\\examples\\faceted_histogram.py"
+      },
+      {
+        "source": "seaborn\\examples",
+        "target": "seaborn\\examples\\faceted_lineplot.py"
+      },
+      {
+        "source": "seaborn\\examples",
+        "target": "seaborn\\examples\\grouped_barplot.py"
+      },
+      {
+        "source": "seaborn\\examples",
+        "target": "seaborn\\examples\\grouped_boxplot.py"
+      },
+      {
+        "source": "seaborn\\examples",
+        "target": "seaborn\\examples\\grouped_violinplots.py"
+      },
+      {
+        "source": "seaborn\\examples",
+        "target": "seaborn\\examples\\heat_scatter.py"
+      },
+      {
+        "source": "seaborn\\examples",
+        "target": "seaborn\\examples\\hexbin_marginals.py"
+      },
+      {
+        "source": "seaborn\\examples",
+        "target": "seaborn\\examples\\histogram_stacked.py"
+      },
+      {
+        "source": "seaborn\\examples",
+        "target": "seaborn\\examples\\horizontal_boxplot.py"
+      },
+      {
+        "source": "seaborn\\examples",
+        "target": "seaborn\\examples\\jitter_stripplot.py"
+      },
+      {
+        "source": "seaborn\\examples",
+        "target": "seaborn\\examples\\joint_histogram.py"
+      },
+      {
+        "source": "seaborn\\examples",
+        "target": "seaborn\\examples\\joint_kde.py"
+      },
+      {
+        "source": "seaborn\\examples",
+        "target": "seaborn\\examples\\kde_ridgeplot.py"
+      },
+      {
+        "source": "seaborn\\examples",
+        "target": "seaborn\\examples\\large_distributions.py"
+      },
+      {
+        "source": "seaborn\\examples",
+        "target": "seaborn\\examples\\layered_bivariate_plot.py"
+      },
+      {
+        "source": "seaborn\\examples",
+        "target": "seaborn\\examples\\logistic_regression.py"
+      },
+      {
+        "source": "seaborn\\examples",
+        "target": "seaborn\\examples\\many_facets.py"
+      },
+      {
+        "source": "seaborn\\examples",
+        "target": "seaborn\\examples\\many_pairwise_correlations.py"
+      },
+      {
+        "source": "seaborn\\examples",
+        "target": "seaborn\\examples\\marginal_ticks.py"
+      },
+      {
+        "source": "seaborn\\examples",
+        "target": "seaborn\\examples\\multiple_bivariate_kde.py"
+      },
+      {
+        "source": "seaborn\\examples",
+        "target": "seaborn\\examples\\multiple_conditional_kde.py"
+      },
+      {
+        "source": "seaborn\\examples",
+        "target": "seaborn\\examples\\multiple_ecdf.py"
+      },
+      {
+        "source": "seaborn\\examples",
+        "target": "seaborn\\examples\\multiple_regression.py"
+      },
+      {
+        "source": "seaborn\\examples",
+        "target": "seaborn\\examples\\paired_pointplots.py"
+      },
+      {
+        "source": "seaborn\\examples",
+        "target": "seaborn\\examples\\pairgrid_dotplot.py"
+      },
+      {
+        "source": "seaborn\\examples",
+        "target": "seaborn\\examples\\pair_grid_with_kde.py"
+      },
+      {
+        "source": "seaborn\\examples",
+        "target": "seaborn\\examples\\palette_choices.py"
+      },
+      {
+        "source": "seaborn\\examples",
+        "target": "seaborn\\examples\\palette_generation.py"
+      },
+      {
+        "source": "seaborn\\examples",
+        "target": "seaborn\\examples\\part_whole_bars.py"
+      },
+      {
+        "source": "seaborn\\examples",
+        "target": "seaborn\\examples\\pointplot_anova.py"
+      },
+      {
+        "source": "seaborn\\examples",
+        "target": "seaborn\\examples\\radial_facets.py"
+      },
+      {
+        "source": "seaborn\\examples",
+        "target": "seaborn\\examples\\regression_marginals.py"
+      },
+      {
+        "source": "seaborn\\examples",
+        "target": "seaborn\\examples\\residplot.py"
+      },
+      {
+        "source": "seaborn\\examples",
+        "target": "seaborn\\examples\\scatterplot_categorical.py"
+      },
+      {
+        "source": "seaborn\\examples",
+        "target": "seaborn\\examples\\scatterplot_matrix.py"
+      },
+      {
+        "source": "seaborn\\examples",
+        "target": "seaborn\\examples\\scatterplot_sizes.py"
+      },
+      {
+        "source": "seaborn\\examples",
+        "target": "seaborn\\examples\\scatter_bubbles.py"
+      },
+      {
+        "source": "seaborn\\examples",
+        "target": "seaborn\\examples\\simple_violinplots.py"
+      },
+      {
+        "source": "seaborn\\examples",
+        "target": "seaborn\\examples\\smooth_bivariate_kde.py"
+      },
+      {
+        "source": "seaborn\\examples",
+        "target": "seaborn\\examples\\spreadsheet_heatmap.py"
+      },
+      {
+        "source": "seaborn\\examples",
+        "target": "seaborn\\examples\\strip_regplot.py"
+      },
+      {
+        "source": "seaborn\\examples",
+        "target": "seaborn\\examples\\structured_heatmap.py"
+      },
+      {
+        "source": "seaborn\\examples",
+        "target": "seaborn\\examples\\three_variable_histogram.py"
+      },
+      {
+        "source": "seaborn\\examples",
+        "target": "seaborn\\examples\\timeseries_facets.py"
+      },
+      {
+        "source": "seaborn\\examples",
+        "target": "seaborn\\examples\\wide_data_lineplot.py"
+      },
+      {
+        "source": "seaborn\\examples",
+        "target": "seaborn\\examples\\wide_form_violinplot.py"
+      },
+      {
+        "source": "seaborn\\licences",
+        "target": "seaborn\\licences\\APPDIRS_LICENSE"
+      },
+      {
+        "source": "seaborn\\licences",
+        "target": "seaborn\\licences\\HUSL_LICENSE"
+      },
+      {
+        "source": "seaborn\\licences",
+        "target": "seaborn\\licences\\NUMPYDOC_LICENSE"
+      },
+      {
+        "source": "seaborn\\licences",
+        "target": "seaborn\\licences\\PACKAGING_LICENSE"
+      },
+      {
+        "source": "seaborn\\licences",
+        "target": "seaborn\\licences\\SCIPY_LICENSE"
+      },
+      {
+        "source": "seaborn\\seaborn",
+        "target": "seaborn\\seaborn\\algorithms.py"
+      },
+      {
+        "source": "seaborn\\seaborn",
+        "target": "seaborn\\seaborn\\axisgrid.py"
+      },
+      {
+        "source": "seaborn\\seaborn",
+        "target": "seaborn\\seaborn\\categorical.py"
+      },
+      {
+        "source": "seaborn\\seaborn",
+        "target": "seaborn\\seaborn\\cm.py"
+      },
+      {
+        "source": "seaborn\\seaborn",
+        "target": "seaborn\\seaborn\\colors"
+      },
+      {
+        "source": "seaborn\\seaborn",
+        "target": "seaborn\\seaborn\\distributions.py"
+      },
+      {
+        "source": "seaborn\\seaborn",
+        "target": "seaborn\\seaborn\\external"
+      },
+      {
+        "source": "seaborn\\seaborn",
+        "target": "seaborn\\seaborn\\matrix.py"
+      },
+      {
+        "source": "seaborn\\seaborn",
+        "target": "seaborn\\seaborn\\miscplot.py"
+      },
+      {
+        "source": "seaborn\\seaborn",
+        "target": "seaborn\\seaborn\\objects.py"
+      },
+      {
+        "source": "seaborn\\seaborn",
+        "target": "seaborn\\seaborn\\palettes.py"
+      },
+      {
+        "source": "seaborn\\seaborn",
+        "target": "seaborn\\seaborn\\rcmod.py"
+      },
+      {
+        "source": "seaborn\\seaborn",
+        "target": "seaborn\\seaborn\\regression.py"
+      },
+      {
+        "source": "seaborn\\seaborn",
+        "target": "seaborn\\seaborn\\relational.py"
+      },
+      {
+        "source": "seaborn\\seaborn",
+        "target": "seaborn\\seaborn\\utils.py"
+      },
+      {
+        "source": "seaborn\\seaborn",
+        "target": "seaborn\\seaborn\\widgets.py"
+      },
+      {
+        "source": "seaborn\\seaborn",
+        "target": "seaborn\\seaborn\\_base.py"
+      },
+      {
+        "source": "seaborn\\seaborn",
+        "target": "seaborn\\seaborn\\_compat.py"
+      },
+      {
+        "source": "seaborn\\seaborn",
+        "target": "seaborn\\seaborn\\_core"
+      },
+      {
+        "source": "seaborn\\seaborn",
+        "target": "seaborn\\seaborn\\_docstrings.py"
+      },
+      {
+        "source": "seaborn\\seaborn",
+        "target": "seaborn\\seaborn\\_marks"
+      },
+      {
+        "source": "seaborn\\seaborn",
+        "target": "seaborn\\seaborn\\_statistics.py"
+      },
+      {
+        "source": "seaborn\\seaborn",
+        "target": "seaborn\\seaborn\\_stats"
+      },
+      {
+        "source": "seaborn\\seaborn",
+        "target": "seaborn\\seaborn\\_testing.py"
+      },
+      {
+        "source": "seaborn\\seaborn",
+        "target": "seaborn\\seaborn\\__init__.py"
+      },
+      {
+        "source": "seaborn\\tests",
+        "target": "seaborn\\tests\\conftest.py"
+      },
+      {
+        "source": "seaborn\\tests",
+        "target": "seaborn\\tests\\test_algorithms.py"
+      },
+      {
+        "source": "seaborn\\tests",
+        "target": "seaborn\\tests\\test_axisgrid.py"
+      },
+      {
+        "source": "seaborn\\tests",
+        "target": "seaborn\\tests\\test_base.py"
+      },
+      {
+        "source": "seaborn\\tests",
+        "target": "seaborn\\tests\\test_categorical.py"
+      },
+      {
+        "source": "seaborn\\tests",
+        "target": "seaborn\\tests\\test_distributions.py"
+      },
+      {
+        "source": "seaborn\\tests",
+        "target": "seaborn\\tests\\test_docstrings.py"
+      },
+      {
+        "source": "seaborn\\tests",
+        "target": "seaborn\\tests\\test_matrix.py"
+      },
+      {
+        "source": "seaborn\\tests",
+        "target": "seaborn\\tests\\test_miscplot.py"
+      },
+      {
+        "source": "seaborn\\tests",
+        "target": "seaborn\\tests\\test_objects.py"
+      },
+      {
+        "source": "seaborn\\tests",
+        "target": "seaborn\\tests\\test_palettes.py"
+      },
+      {
+        "source": "seaborn\\tests",
+        "target": "seaborn\\tests\\test_rcmod.py"
+      },
+      {
+        "source": "seaborn\\tests",
+        "target": "seaborn\\tests\\test_regression.py"
+      },
+      {
+        "source": "seaborn\\tests",
+        "target": "seaborn\\tests\\test_relational.py"
+      },
+      {
+        "source": "seaborn\\tests",
+        "target": "seaborn\\tests\\test_statistics.py"
+      },
+      {
+        "source": "seaborn\\tests",
+        "target": "seaborn\\tests\\test_utils.py"
+      },
+      {
+        "source": "seaborn\\tests",
+        "target": "seaborn\\tests\\_core"
+      },
+      {
+        "source": "seaborn\\tests",
+        "target": "seaborn\\tests\\_marks"
+      },
+      {
+        "source": "seaborn\\tests",
+        "target": "seaborn\\tests\\_stats"
+      },
+      {
+        "source": "seaborn\\tests",
+        "target": "seaborn\\tests\\__init__.py"
+      },
+      {
+        "source": "seaborn\\tests\\_core",
+        "target": "seaborn\\tests\\_core\\test_data.py"
+      },
+      {
+        "source": "seaborn\\tests\\_core",
+        "target": "seaborn\\tests\\_core\\test_groupby.py"
+      },
+      {
+        "source": "seaborn\\tests\\_core",
+        "target": "seaborn\\tests\\_core\\test_moves.py"
+      },
+      {
+        "source": "seaborn\\tests\\_core",
+        "target": "seaborn\\tests\\_core\\test_plot.py"
+      },
+      {
+        "source": "seaborn\\tests\\_core",
+        "target": "seaborn\\tests\\_core\\test_properties.py"
+      },
+      {
+        "source": "seaborn\\tests\\_core",
+        "target": "seaborn\\tests\\_core\\test_rules.py"
+      },
+      {
+        "source": "seaborn\\tests\\_core",
+        "target": "seaborn\\tests\\_core\\test_scales.py"
+      },
+      {
+        "source": "seaborn\\tests\\_core",
+        "target": "seaborn\\tests\\_core\\test_subplots.py"
+      },
+      {
+        "source": "seaborn\\tests\\_core",
+        "target": "seaborn\\tests\\_core\\__init__.py"
+      },
+      {
+        "source": "seaborn\\tests\\_marks",
+        "target": "seaborn\\tests\\_marks\\test_area.py"
+      },
+      {
+        "source": "seaborn\\tests\\_marks",
+        "target": "seaborn\\tests\\_marks\\test_bar.py"
+      },
+      {
+        "source": "seaborn\\tests\\_marks",
+        "target": "seaborn\\tests\\_marks\\test_base.py"
+      },
+      {
+        "source": "seaborn\\tests\\_marks",
+        "target": "seaborn\\tests\\_marks\\test_dot.py"
+      },
+      {
+        "source": "seaborn\\tests\\_marks",
+        "target": "seaborn\\tests\\_marks\\test_line.py"
+      },
+      {
+        "source": "seaborn\\tests\\_marks",
+        "target": "seaborn\\tests\\_marks\\test_text.py"
+      },
+      {
+        "source": "seaborn\\tests\\_marks",
+        "target": "seaborn\\tests\\_marks\\__init__.py"
+      },
+      {
+        "source": "seaborn\\tests\\_stats",
+        "target": "seaborn\\tests\\_stats\\test_aggregation.py"
+      },
+      {
+        "source": "seaborn\\tests\\_stats",
+        "target": "seaborn\\tests\\_stats\\test_counting.py"
+      },
+      {
+        "source": "seaborn\\tests\\_stats",
+        "target": "seaborn\\tests\\_stats\\test_density.py"
+      },
+      {
+        "source": "seaborn\\tests\\_stats",
+        "target": "seaborn\\tests\\_stats\\test_order.py"
+      },
+      {
+        "source": "seaborn\\tests\\_stats",
+        "target": "seaborn\\tests\\_stats\\test_regression.py"
+      },
+      {
+        "source": "seaborn\\tests\\_stats",
+        "target": "seaborn\\tests\\_stats\\__init__.py"
+      },
+      {
+        "source": "seaborn\\seaborn\\colors",
+        "target": "seaborn\\seaborn\\colors\\crayons.py"
+      },
+      {
+        "source": "seaborn\\seaborn\\colors",
+        "target": "seaborn\\seaborn\\colors\\xkcd_rgb.py"
+      },
+      {
+        "source": "seaborn\\seaborn\\colors",
+        "target": "seaborn\\seaborn\\colors\\__init__.py"
+      },
+      {
+        "source": "seaborn\\seaborn\\external",
+        "target": "seaborn\\seaborn\\external\\appdirs.py"
+      },
+      {
+        "source": "seaborn\\seaborn\\external",
+        "target": "seaborn\\seaborn\\external\\docscrape.py"
+      },
+      {
+        "source": "seaborn\\seaborn\\external",
+        "target": "seaborn\\seaborn\\external\\husl.py"
+      },
+      {
+        "source": "seaborn\\seaborn\\external",
+        "target": "seaborn\\seaborn\\external\\kde.py"
+      },
+      {
+        "source": "seaborn\\seaborn\\external",
+        "target": "seaborn\\seaborn\\external\\version.py"
+      },
+      {
+        "source": "seaborn\\seaborn\\external",
+        "target": "seaborn\\seaborn\\external\\__init__.py"
+      },
+      {
+        "source": "seaborn\\seaborn\\_core",
+        "target": "seaborn\\seaborn\\_core\\data.py"
+      },
+      {
+        "source": "seaborn\\seaborn\\_core",
+        "target": "seaborn\\seaborn\\_core\\exceptions.py"
+      },
+      {
+        "source": "seaborn\\seaborn\\_core",
+        "target": "seaborn\\seaborn\\_core\\groupby.py"
+      },
+      {
+        "source": "seaborn\\seaborn\\_core",
+        "target": "seaborn\\seaborn\\_core\\moves.py"
+      },
+      {
+        "source": "seaborn\\seaborn\\_core",
+        "target": "seaborn\\seaborn\\_core\\plot.py"
+      },
+      {
+        "source": "seaborn\\seaborn\\_core",
+        "target": "seaborn\\seaborn\\_core\\properties.py"
+      },
+      {
+        "source": "seaborn\\seaborn\\_core",
+        "target": "seaborn\\seaborn\\_core\\rules.py"
+      },
+      {
+        "source": "seaborn\\seaborn\\_core",
+        "target": "seaborn\\seaborn\\_core\\scales.py"
+      },
+      {
+        "source": "seaborn\\seaborn\\_core",
+        "target": "seaborn\\seaborn\\_core\\subplots.py"
+      },
+      {
+        "source": "seaborn\\seaborn\\_core",
+        "target": "seaborn\\seaborn\\_core\\typing.py"
+      },
+      {
+        "source": "seaborn\\seaborn\\_core",
+        "target": "seaborn\\seaborn\\_core\\__init__.py"
+      },
+      {
+        "source": "seaborn\\seaborn\\_marks",
+        "target": "seaborn\\seaborn\\_marks\\area.py"
+      },
+      {
+        "source": "seaborn\\seaborn\\_marks",
+        "target": "seaborn\\seaborn\\_marks\\bar.py"
+      },
+      {
+        "source": "seaborn\\seaborn\\_marks",
+        "target": "seaborn\\seaborn\\_marks\\base.py"
+      },
+      {
+        "source": "seaborn\\seaborn\\_marks",
+        "target": "seaborn\\seaborn\\_marks\\dot.py"
+      },
+      {
+        "source": "seaborn\\seaborn\\_marks",
+        "target": "seaborn\\seaborn\\_marks\\line.py"
+      },
+      {
+        "source": "seaborn\\seaborn\\_marks",
+        "target": "seaborn\\seaborn\\_marks\\text.py"
+      },
+      {
+        "source": "seaborn\\seaborn\\_marks",
+        "target": "seaborn\\seaborn\\_marks\\__init__.py"
+      },
+      {
+        "source": "seaborn\\seaborn\\_stats",
+        "target": "seaborn\\seaborn\\_stats\\aggregation.py"
+      },
+      {
+        "source": "seaborn\\seaborn\\_stats",
+        "target": "seaborn\\seaborn\\_stats\\base.py"
+      },
+      {
+        "source": "seaborn\\seaborn\\_stats",
+        "target": "seaborn\\seaborn\\_stats\\counting.py"
+      },
+      {
+        "source": "seaborn\\seaborn\\_stats",
+        "target": "seaborn\\seaborn\\_stats\\density.py"
+      },
+      {
+        "source": "seaborn\\seaborn\\_stats",
+        "target": "seaborn\\seaborn\\_stats\\order.py"
+      },
+      {
+        "source": "seaborn\\seaborn\\_stats",
+        "target": "seaborn\\seaborn\\_stats\\regression.py"
+      },
+      {
+        "source": "seaborn\\seaborn\\_stats",
+        "target": "seaborn\\seaborn\\_stats\\__init__.py"
+      },
+      {
+        "source": "seaborn\\doc\\example_thumbs",
+        "target": "seaborn\\doc\\example_thumbs\\.gitkeep"
+      },
+      {
+        "source": "seaborn\\doc\\sphinxext",
+        "target": "seaborn\\doc\\sphinxext\\gallery_generator.py"
+      },
+      {
+        "source": "seaborn\\doc\\sphinxext",
+        "target": "seaborn\\doc\\sphinxext\\tutorial_builder.py"
+      },
+      {
+        "source": "seaborn\\doc\\tools",
+        "target": "seaborn\\doc\\tools\\extract_examples.py"
+      },
+      {
+        "source": "seaborn\\doc\\tools",
+        "target": "seaborn\\doc\\tools\\generate_logos.py"
+      },
+      {
+        "source": "seaborn\\doc\\tools",
+        "target": "seaborn\\doc\\tools\\nb_to_doc.py"
+      },
+      {
+        "source": "seaborn\\doc\\tools",
+        "target": "seaborn\\doc\\tools\\set_nb_kernels.py"
+      },
+      {
+        "source": "seaborn\\doc\\whatsnew",
+        "target": "seaborn\\doc\\whatsnew\\index.rst"
+      },
+      {
+        "source": "seaborn\\doc\\whatsnew",
+        "target": "seaborn\\doc\\whatsnew\\v0.10.0.rst"
+      },
+      {
+        "source": "seaborn\\doc\\whatsnew",
+        "target": "seaborn\\doc\\whatsnew\\v0.10.1.rst"
+      },
+      {
+        "source": "seaborn\\doc\\whatsnew",
+        "target": "seaborn\\doc\\whatsnew\\v0.11.0.rst"
+      },
+      {
+        "source": "seaborn\\doc\\whatsnew",
+        "target": "seaborn\\doc\\whatsnew\\v0.11.1.rst"
+      },
+      {
+        "source": "seaborn\\doc\\whatsnew",
+        "target": "seaborn\\doc\\whatsnew\\v0.11.2.rst"
+      },
+      {
+        "source": "seaborn\\doc\\whatsnew",
+        "target": "seaborn\\doc\\whatsnew\\v0.12.0.rst"
+      },
+      {
+        "source": "seaborn\\doc\\whatsnew",
+        "target": "seaborn\\doc\\whatsnew\\v0.12.1.rst"
+      },
+      {
+        "source": "seaborn\\doc\\whatsnew",
+        "target": "seaborn\\doc\\whatsnew\\v0.12.2.rst"
+      },
+      {
+        "source": "seaborn\\doc\\whatsnew",
+        "target": "seaborn\\doc\\whatsnew\\v0.13.0.rst"
+      },
+      {
+        "source": "seaborn\\doc\\whatsnew",
+        "target": "seaborn\\doc\\whatsnew\\v0.13.1.rst"
+      },
+      {
+        "source": "seaborn\\doc\\whatsnew",
+        "target": "seaborn\\doc\\whatsnew\\v0.13.2.rst"
+      },
+      {
+        "source": "seaborn\\doc\\whatsnew",
+        "target": "seaborn\\doc\\whatsnew\\v0.2.0.rst"
+      },
+      {
+        "source": "seaborn\\doc\\whatsnew",
+        "target": "seaborn\\doc\\whatsnew\\v0.2.1.rst"
+      },
+      {
+        "source": "seaborn\\doc\\whatsnew",
+        "target": "seaborn\\doc\\whatsnew\\v0.3.0.rst"
+      },
+      {
+        "source": "seaborn\\doc\\whatsnew",
+        "target": "seaborn\\doc\\whatsnew\\v0.3.1.rst"
+      },
+      {
+        "source": "seaborn\\doc\\whatsnew",
+        "target": "seaborn\\doc\\whatsnew\\v0.4.0.rst"
+      },
+      {
+        "source": "seaborn\\doc\\whatsnew",
+        "target": "seaborn\\doc\\whatsnew\\v0.5.0.rst"
+      },
+      {
+        "source": "seaborn\\doc\\whatsnew",
+        "target": "seaborn\\doc\\whatsnew\\v0.5.1.rst"
+      },
+      {
+        "source": "seaborn\\doc\\whatsnew",
+        "target": "seaborn\\doc\\whatsnew\\v0.6.0.rst"
+      },
+      {
+        "source": "seaborn\\doc\\whatsnew",
+        "target": "seaborn\\doc\\whatsnew\\v0.7.0.rst"
+      },
+      {
+        "source": "seaborn\\doc\\whatsnew",
+        "target": "seaborn\\doc\\whatsnew\\v0.7.1.rst"
+      },
+      {
+        "source": "seaborn\\doc\\whatsnew",
+        "target": "seaborn\\doc\\whatsnew\\v0.8.0.rst"
+      },
+      {
+        "source": "seaborn\\doc\\whatsnew",
+        "target": "seaborn\\doc\\whatsnew\\v0.8.1.rst"
+      },
+      {
+        "source": "seaborn\\doc\\whatsnew",
+        "target": "seaborn\\doc\\whatsnew\\v0.9.0.rst"
+      },
+      {
+        "source": "seaborn\\doc\\whatsnew",
+        "target": "seaborn\\doc\\whatsnew\\v0.9.1.rst"
+      },
+      {
+        "source": "seaborn\\doc\\_docstrings",
+        "target": "seaborn\\doc\\_docstrings\\axes_style.ipynb"
+      },
+      {
+        "source": "seaborn\\doc\\_docstrings",
+        "target": "seaborn\\doc\\_docstrings\\barplot.ipynb"
+      },
+      {
+        "source": "seaborn\\doc\\_docstrings",
+        "target": "seaborn\\doc\\_docstrings\\blend_palette.ipynb"
+      },
+      {
+        "source": "seaborn\\doc\\_docstrings",
+        "target": "seaborn\\doc\\_docstrings\\boxenplot.ipynb"
+      },
+      {
+        "source": "seaborn\\doc\\_docstrings",
+        "target": "seaborn\\doc\\_docstrings\\boxplot.ipynb"
+      },
+      {
+        "source": "seaborn\\doc\\_docstrings",
+        "target": "seaborn\\doc\\_docstrings\\catplot.ipynb"
+      },
+      {
+        "source": "seaborn\\doc\\_docstrings",
+        "target": "seaborn\\doc\\_docstrings\\clustermap.ipynb"
+      },
+      {
+        "source": "seaborn\\doc\\_docstrings",
+        "target": "seaborn\\doc\\_docstrings\\color_palette.ipynb"
+      },
+      {
+        "source": "seaborn\\doc\\_docstrings",
+        "target": "seaborn\\doc\\_docstrings\\countplot.ipynb"
+      },
+      {
+        "source": "seaborn\\doc\\_docstrings",
+        "target": "seaborn\\doc\\_docstrings\\cubehelix_palette.ipynb"
+      },
+      {
+        "source": "seaborn\\doc\\_docstrings",
+        "target": "seaborn\\doc\\_docstrings\\dark_palette.ipynb"
+      },
+      {
+        "source": "seaborn\\doc\\_docstrings",
+        "target": "seaborn\\doc\\_docstrings\\displot.ipynb"
+      },
+      {
+        "source": "seaborn\\doc\\_docstrings",
+        "target": "seaborn\\doc\\_docstrings\\diverging_palette.ipynb"
+      },
+      {
+        "source": "seaborn\\doc\\_docstrings",
+        "target": "seaborn\\doc\\_docstrings\\ecdfplot.ipynb"
+      },
+      {
+        "source": "seaborn\\doc\\_docstrings",
+        "target": "seaborn\\doc\\_docstrings\\FacetGrid.ipynb"
+      },
+      {
+        "source": "seaborn\\doc\\_docstrings",
+        "target": "seaborn\\doc\\_docstrings\\heatmap.ipynb"
+      },
+      {
+        "source": "seaborn\\doc\\_docstrings",
+        "target": "seaborn\\doc\\_docstrings\\histplot.ipynb"
+      },
+      {
+        "source": "seaborn\\doc\\_docstrings",
+        "target": "seaborn\\doc\\_docstrings\\hls_palette.ipynb"
+      },
+      {
+        "source": "seaborn\\doc\\_docstrings",
+        "target": "seaborn\\doc\\_docstrings\\husl_palette.ipynb"
+      },
+      {
+        "source": "seaborn\\doc\\_docstrings",
+        "target": "seaborn\\doc\\_docstrings\\JointGrid.ipynb"
+      },
+      {
+        "source": "seaborn\\doc\\_docstrings",
+        "target": "seaborn\\doc\\_docstrings\\jointplot.ipynb"
+      },
+      {
+        "source": "seaborn\\doc\\_docstrings",
+        "target": "seaborn\\doc\\_docstrings\\kdeplot.ipynb"
+      },
+      {
+        "source": "seaborn\\doc\\_docstrings",
+        "target": "seaborn\\doc\\_docstrings\\light_palette.ipynb"
+      },
+      {
+        "source": "seaborn\\doc\\_docstrings",
+        "target": "seaborn\\doc\\_docstrings\\lineplot.ipynb"
+      },
+      {
+        "source": "seaborn\\doc\\_docstrings",
+        "target": "seaborn\\doc\\_docstrings\\lmplot.ipynb"
+      },
+      {
+        "source": "seaborn\\doc\\_docstrings",
+        "target": "seaborn\\doc\\_docstrings\\Makefile"
+      },
+      {
+        "source": "seaborn\\doc\\_docstrings",
+        "target": "seaborn\\doc\\_docstrings\\move_legend.ipynb"
+      },
+      {
+        "source": "seaborn\\doc\\_docstrings",
+        "target": "seaborn\\doc\\_docstrings\\mpl_palette.ipynb"
+      },
+      {
+        "source": "seaborn\\doc\\_docstrings",
+        "target": "seaborn\\doc\\_docstrings\\objects.Agg.ipynb"
+      },
+      {
+        "source": "seaborn\\doc\\_docstrings",
+        "target": "seaborn\\doc\\_docstrings\\objects.Area.ipynb"
+      },
+      {
+        "source": "seaborn\\doc\\_docstrings",
+        "target": "seaborn\\doc\\_docstrings\\objects.Band.ipynb"
+      },
+      {
+        "source": "seaborn\\doc\\_docstrings",
+        "target": "seaborn\\doc\\_docstrings\\objects.Bar.ipynb"
+      },
+      {
+        "source": "seaborn\\doc\\_docstrings",
+        "target": "seaborn\\doc\\_docstrings\\objects.Bars.ipynb"
+      },
+      {
+        "source": "seaborn\\doc\\_docstrings",
+        "target": "seaborn\\doc\\_docstrings\\objects.Count.ipynb"
+      },
+      {
+        "source": "seaborn\\doc\\_docstrings",
+        "target": "seaborn\\doc\\_docstrings\\objects.Dash.ipynb"
+      },
+      {
+        "source": "seaborn\\doc\\_docstrings",
+        "target": "seaborn\\doc\\_docstrings\\objects.Dodge.ipynb"
+      },
+      {
+        "source": "seaborn\\doc\\_docstrings",
+        "target": "seaborn\\doc\\_docstrings\\objects.Dot.ipynb"
+      },
+      {
+        "source": "seaborn\\doc\\_docstrings",
+        "target": "seaborn\\doc\\_docstrings\\objects.Dots.ipynb"
+      },
+      {
+        "source": "seaborn\\doc\\_docstrings",
+        "target": "seaborn\\doc\\_docstrings\\objects.Est.ipynb"
+      },
+      {
+        "source": "seaborn\\doc\\_docstrings",
+        "target": "seaborn\\doc\\_docstrings\\objects.Hist.ipynb"
+      },
+      {
+        "source": "seaborn\\doc\\_docstrings",
+        "target": "seaborn\\doc\\_docstrings\\objects.Jitter.ipynb"
+      },
+      {
+        "source": "seaborn\\doc\\_docstrings",
+        "target": "seaborn\\doc\\_docstrings\\objects.KDE.ipynb"
+      },
+      {
+        "source": "seaborn\\doc\\_docstrings",
+        "target": "seaborn\\doc\\_docstrings\\objects.Line.ipynb"
+      },
+      {
+        "source": "seaborn\\doc\\_docstrings",
+        "target": "seaborn\\doc\\_docstrings\\objects.Lines.ipynb"
+      },
+      {
+        "source": "seaborn\\doc\\_docstrings",
+        "target": "seaborn\\doc\\_docstrings\\objects.Norm.ipynb"
+      },
+      {
+        "source": "seaborn\\doc\\_docstrings",
+        "target": "seaborn\\doc\\_docstrings\\objects.Path.ipynb"
+      },
+      {
+        "source": "seaborn\\doc\\_docstrings",
+        "target": "seaborn\\doc\\_docstrings\\objects.Paths.ipynb"
+      },
+      {
+        "source": "seaborn\\doc\\_docstrings",
+        "target": "seaborn\\doc\\_docstrings\\objects.Perc.ipynb"
+      },
+      {
+        "source": "seaborn\\doc\\_docstrings",
+        "target": "seaborn\\doc\\_docstrings\\objects.Plot.add.ipynb"
+      },
+      {
+        "source": "seaborn\\doc\\_docstrings",
+        "target": "seaborn\\doc\\_docstrings\\objects.Plot.config.ipynb"
+      },
+      {
+        "source": "seaborn\\doc\\_docstrings",
+        "target": "seaborn\\doc\\_docstrings\\objects.Plot.facet.ipynb"
+      },
+      {
+        "source": "seaborn\\doc\\_docstrings",
+        "target": "seaborn\\doc\\_docstrings\\objects.Plot.label.ipynb"
+      },
+      {
+        "source": "seaborn\\doc\\_docstrings",
+        "target": "seaborn\\doc\\_docstrings\\objects.Plot.layout.ipynb"
+      },
+      {
+        "source": "seaborn\\doc\\_docstrings",
+        "target": "seaborn\\doc\\_docstrings\\objects.Plot.limit.ipynb"
+      },
+      {
+        "source": "seaborn\\doc\\_docstrings",
+        "target": "seaborn\\doc\\_docstrings\\objects.Plot.on.ipynb"
+      },
+      {
+        "source": "seaborn\\doc\\_docstrings",
+        "target": "seaborn\\doc\\_docstrings\\objects.Plot.pair.ipynb"
+      },
+      {
+        "source": "seaborn\\doc\\_docstrings",
+        "target": "seaborn\\doc\\_docstrings\\objects.Plot.scale.ipynb"
+      },
+      {
+        "source": "seaborn\\doc\\_docstrings",
+        "target": "seaborn\\doc\\_docstrings\\objects.Plot.share.ipynb"
+      },
+      {
+        "source": "seaborn\\doc\\_docstrings",
+        "target": "seaborn\\doc\\_docstrings\\objects.Plot.theme.ipynb"
+      },
+      {
+        "source": "seaborn\\doc\\_docstrings",
+        "target": "seaborn\\doc\\_docstrings\\objects.Range.ipynb"
+      },
+      {
+        "source": "seaborn\\doc\\_docstrings",
+        "target": "seaborn\\doc\\_docstrings\\objects.Shift.ipynb"
+      },
+      {
+        "source": "seaborn\\doc\\_docstrings",
+        "target": "seaborn\\doc\\_docstrings\\objects.Stack.ipynb"
+      },
+      {
+        "source": "seaborn\\doc\\_docstrings",
+        "target": "seaborn\\doc\\_docstrings\\objects.Text.ipynb"
+      },
+      {
+        "source": "seaborn\\doc\\_docstrings",
+        "target": "seaborn\\doc\\_docstrings\\PairGrid.ipynb"
+      },
+      {
+        "source": "seaborn\\doc\\_docstrings",
+        "target": "seaborn\\doc\\_docstrings\\pairplot.ipynb"
+      },
+      {
+        "source": "seaborn\\doc\\_docstrings",
+        "target": "seaborn\\doc\\_docstrings\\plotting_context.ipynb"
+      },
+      {
+        "source": "seaborn\\doc\\_docstrings",
+        "target": "seaborn\\doc\\_docstrings\\pointplot.ipynb"
+      },
+      {
+        "source": "seaborn\\doc\\_docstrings",
+        "target": "seaborn\\doc\\_docstrings\\regplot.ipynb"
+      },
+      {
+        "source": "seaborn\\doc\\_docstrings",
+        "target": "seaborn\\doc\\_docstrings\\relplot.ipynb"
+      },
+      {
+        "source": "seaborn\\doc\\_docstrings",
+        "target": "seaborn\\doc\\_docstrings\\residplot.ipynb"
+      },
+      {
+        "source": "seaborn\\doc\\_docstrings",
+        "target": "seaborn\\doc\\_docstrings\\rugplot.ipynb"
+      },
+      {
+        "source": "seaborn\\doc\\_docstrings",
+        "target": "seaborn\\doc\\_docstrings\\scatterplot.ipynb"
+      },
+      {
+        "source": "seaborn\\doc\\_docstrings",
+        "target": "seaborn\\doc\\_docstrings\\set_context.ipynb"
+      },
+      {
+        "source": "seaborn\\doc\\_docstrings",
+        "target": "seaborn\\doc\\_docstrings\\set_style.ipynb"
+      },
+      {
+        "source": "seaborn\\doc\\_docstrings",
+        "target": "seaborn\\doc\\_docstrings\\set_theme.ipynb"
+      },
+      {
+        "source": "seaborn\\doc\\_docstrings",
+        "target": "seaborn\\doc\\_docstrings\\stripplot.ipynb"
+      },
+      {
+        "source": "seaborn\\doc\\_docstrings",
+        "target": "seaborn\\doc\\_docstrings\\swarmplot.ipynb"
+      },
+      {
+        "source": "seaborn\\doc\\_docstrings",
+        "target": "seaborn\\doc\\_docstrings\\violinplot.ipynb"
+      },
+      {
+        "source": "seaborn\\doc\\_static",
+        "target": "seaborn\\doc\\_static\\copybutton.js"
+      },
+      {
+        "source": "seaborn\\doc\\_static",
+        "target": "seaborn\\doc\\_static\\css"
+      },
+      {
+        "source": "seaborn\\doc\\_static",
+        "target": "seaborn\\doc\\_static\\favicon.ico"
+      },
+      {
+        "source": "seaborn\\doc\\_static",
+        "target": "seaborn\\doc\\_static\\favicon_old.ico"
+      },
+      {
+        "source": "seaborn\\doc\\_static",
+        "target": "seaborn\\doc\\_static\\logo-mark-darkbg.png"
+      },
+      {
+        "source": "seaborn\\doc\\_static",
+        "target": "seaborn\\doc\\_static\\logo-mark-darkbg.svg"
+      },
+      {
+        "source": "seaborn\\doc\\_static",
+        "target": "seaborn\\doc\\_static\\logo-mark-lightbg.png"
+      },
+      {
+        "source": "seaborn\\doc\\_static",
+        "target": "seaborn\\doc\\_static\\logo-mark-lightbg.svg"
+      },
+      {
+        "source": "seaborn\\doc\\_static",
+        "target": "seaborn\\doc\\_static\\logo-mark-whitebg.png"
+      },
+      {
+        "source": "seaborn\\doc\\_static",
+        "target": "seaborn\\doc\\_static\\logo-tall-darkbg.png"
+      },
+      {
+        "source": "seaborn\\doc\\_static",
+        "target": "seaborn\\doc\\_static\\logo-tall-darkbg.svg"
+      },
+      {
+        "source": "seaborn\\doc\\_static",
+        "target": "seaborn\\doc\\_static\\logo-tall-lightbg.png"
+      },
+      {
+        "source": "seaborn\\doc\\_static",
+        "target": "seaborn\\doc\\_static\\logo-tall-lightbg.svg"
+      },
+      {
+        "source": "seaborn\\doc\\_static",
+        "target": "seaborn\\doc\\_static\\logo-tall-whitebg.png"
+      },
+      {
+        "source": "seaborn\\doc\\_static",
+        "target": "seaborn\\doc\\_static\\logo-wide-darkbg.png"
+      },
+      {
+        "source": "seaborn\\doc\\_static",
+        "target": "seaborn\\doc\\_static\\logo-wide-darkbg.svg"
+      },
+      {
+        "source": "seaborn\\doc\\_static",
+        "target": "seaborn\\doc\\_static\\logo-wide-lightbg.png"
+      },
+      {
+        "source": "seaborn\\doc\\_static",
+        "target": "seaborn\\doc\\_static\\logo-wide-lightbg.svg"
+      },
+      {
+        "source": "seaborn\\doc\\_static",
+        "target": "seaborn\\doc\\_static\\logo-wide-whitebg.png"
+      },
+      {
+        "source": "seaborn\\doc\\_templates",
+        "target": "seaborn\\doc\\_templates\\autosummary"
+      },
+      {
+        "source": "seaborn\\doc\\_templates",
+        "target": "seaborn\\doc\\_templates\\layout.html"
+      },
+      {
+        "source": "seaborn\\doc\\_templates",
+        "target": "seaborn\\doc\\_templates\\version.html"
+      },
+      {
+        "source": "seaborn\\doc\\_tutorial",
+        "target": "seaborn\\doc\\_tutorial\\aesthetics.ipynb"
+      },
+      {
+        "source": "seaborn\\doc\\_tutorial",
+        "target": "seaborn\\doc\\_tutorial\\axis_grids.ipynb"
+      },
+      {
+        "source": "seaborn\\doc\\_tutorial",
+        "target": "seaborn\\doc\\_tutorial\\categorical.ipynb"
+      },
+      {
+        "source": "seaborn\\doc\\_tutorial",
+        "target": "seaborn\\doc\\_tutorial\\color_palettes.ipynb"
+      },
+      {
+        "source": "seaborn\\doc\\_tutorial",
+        "target": "seaborn\\doc\\_tutorial\\data_structure.ipynb"
+      },
+      {
+        "source": "seaborn\\doc\\_tutorial",
+        "target": "seaborn\\doc\\_tutorial\\distributions.ipynb"
+      },
+      {
+        "source": "seaborn\\doc\\_tutorial",
+        "target": "seaborn\\doc\\_tutorial\\error_bars.ipynb"
+      },
+      {
+        "source": "seaborn\\doc\\_tutorial",
+        "target": "seaborn\\doc\\_tutorial\\function_overview.ipynb"
+      },
+      {
+        "source": "seaborn\\doc\\_tutorial",
+        "target": "seaborn\\doc\\_tutorial\\introduction.ipynb"
+      },
+      {
+        "source": "seaborn\\doc\\_tutorial",
+        "target": "seaborn\\doc\\_tutorial\\Makefile"
+      },
+      {
+        "source": "seaborn\\doc\\_tutorial",
+        "target": "seaborn\\doc\\_tutorial\\objects_interface.ipynb"
+      },
+      {
+        "source": "seaborn\\doc\\_tutorial",
+        "target": "seaborn\\doc\\_tutorial\\properties.ipynb"
+      },
+      {
+        "source": "seaborn\\doc\\_tutorial",
+        "target": "seaborn\\doc\\_tutorial\\regression.ipynb"
+      },
+      {
+        "source": "seaborn\\doc\\_tutorial",
+        "target": "seaborn\\doc\\_tutorial\\relational.ipynb"
+      },
+      {
+        "source": "seaborn\\doc\\_templates\\autosummary",
+        "target": "seaborn\\doc\\_templates\\autosummary\\base.rst"
+      },
+      {
+        "source": "seaborn\\doc\\_templates\\autosummary",
+        "target": "seaborn\\doc\\_templates\\autosummary\\class.rst"
+      },
+      {
+        "source": "seaborn\\doc\\_templates\\autosummary",
+        "target": "seaborn\\doc\\_templates\\autosummary\\object.rst"
+      },
+      {
+        "source": "seaborn\\doc\\_templates\\autosummary",
+        "target": "seaborn\\doc\\_templates\\autosummary\\plot.rst"
+      },
+      {
+        "source": "seaborn\\doc\\_templates\\autosummary",
+        "target": "seaborn\\doc\\_templates\\autosummary\\scale.rst"
+      },
+      {
+        "source": "seaborn\\doc\\_static\\css",
+        "target": "seaborn\\doc\\_static\\css\\custom.css"
+      },
+      {
+        "source": "seaborn\\.github\\workflows",
+        "target": "seaborn\\.github\\workflows\\ci.yaml"
+      }
+    ]
+  },
+  "metadata": {
+    "name": "directoy tree of seaborn",
+    "description": "Directory tree of the Python package seaborn",
+    "source": "inspectapy/examples/start_map.ipynb"
+  }
+}
