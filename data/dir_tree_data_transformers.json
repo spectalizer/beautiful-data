@@ -322,7 +322,7 @@
       {
         "type": "file",
         "size": 0.0,
-        "file_type": "other",
+        "file_type": "typed",
         "inclusive_size": 0.0,
         "id": "src\\transformers\\py.typed"
       },
@@ -19668,7 +19668,7 @@
         "id": "src\\transformers\\cli\\__init__.py"
       }
     ],
-    "links": [
+    "edges": [
       {
         "source": "src",
         "target": "src\\transformers"
